@@ -1,0 +1,2411 @@
+361102000002|한누리대로|Hannuri-daero|00|세종특별자치시|Sejong-si|||||2||0||||
+361102000002|한누리대로|Hannuri-daero|01|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361102000002|한누리대로|Hannuri-daero|02|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361102000002|한누리대로|Hannuri-daero|03|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361102000002|한누리대로|Hannuri-daero|04|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361102000002|한누리대로|Hannuri-daero|05|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361102000002|한누리대로|Hannuri-daero|06|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361102000002|한누리대로|Hannuri-daero|07|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361102000002|한누리대로|Hannuri-daero|08|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361102000002|한누리대로|Hannuri-daero|09|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361102000002|한누리대로|Hannuri-daero|10|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361102000002|한누리대로|Hannuri-daero|11|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361102000002|한누리대로|Hannuri-daero|12|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361102000002|한누리대로|Hannuri-daero|13|세종특별자치시|Sejong-si|||합강동|Hapgang-dong|1|117|0||||
+361102000002|한누리대로|Hannuri-daero|14|세종특별자치시|Sejong-si|||해밀동|Haemil-dong|1|116|0||||
+361102348105|시청대로|Sicheong-daero|00|세종특별자치시|Sejong-si|||||2||0||||
+361102348105|시청대로|Sicheong-daero|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361102348105|시청대로|Sicheong-daero|02|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361102348105|시청대로|Sicheong-daero|03|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361102348105|시청대로|Sicheong-daero|04|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361102348105|시청대로|Sicheong-daero|05|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361102348105|시청대로|Sicheong-daero|06|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361102348142|행복대로|Haengbok-daero|00|세종특별자치시|Sejong-si|||||2||0||||
+361102348142|행복대로|Haengbok-daero|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361102348142|행복대로|Haengbok-daero|02|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361102348142|행복대로|Haengbok-daero|03|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103000098|금남구즉로|Geumnamgujeuk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103000098|금남구즉로|Geumnamgujeuk-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103000098|금남구즉로|Geumnamgujeuk-ro|02|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103000098|금남구즉로|Geumnamgujeuk-ro|03|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361103000098|금남구즉로|Geumnamgujeuk-ro|04|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103000098|금남구즉로|Geumnamgujeuk-ro|05|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103000098|금남구즉로|Geumnamgujeuk-ro|06|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103000100|안금로|Angeum-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103000100|안금로|Angeum-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103000167|심동로|Simdong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103000167|심동로|Simdong-ro|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103000168|연청로|Yeoncheong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103000168|연청로|Yeoncheong-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103000168|연청로|Yeoncheong-ro|02|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103000168|연청로|Yeoncheong-ro|03|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103000189|세종로|Sejong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103000189|세종로|Sejong-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103000189|세종로|Sejong-ro|02|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103000189|세종로|Sejong-ro|03|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103000189|세종로|Sejong-ro|04|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103000189|세종로|Sejong-ro|05|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103000189|세종로|Sejong-ro|06|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103000189|세종로|Sejong-ro|07|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103000189|세종로|Sejong-ro|08|세종특별자치시|Sejong-si|||종촌동|Jongchon-dong|1|111|0||||
+361103000189|세종로|Sejong-ro|09|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103000189|세종로|Sejong-ro|10|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103000189|세종로|Sejong-ro|11|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103000195|운주산로|Unjusan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103000195|운주산로|Unjusan-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103000195|운주산로|Unjusan-ro|02|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103000195|운주산로|Unjusan-ro|03|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103000231|정안세종로|Jeongansejong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103000231|정안세종로|Jeongansejong-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103000231|정안세종로|Jeongansejong-ro|02|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103000231|정안세종로|Jeongansejong-ro|03|세종특별자치시|Sejong-si|||산울동|Sanul-dong|1|115|0||||
+361103014066|서부로|Seobu-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103014066|서부로|Seobu-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103015019|도신고복로|Dosingobok-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103015019|도신고복로|Dosingobok-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103015020|반포세종로|Banposejong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103015020|반포세종로|Banposejong-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103015023|의당전의로|Uidangjeonui-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103015023|의당전의로|Uidangjeonui-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103015023|의당전의로|Uidangjeonui-ro|02|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103015052|왕의물로|Wanguimul-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103015052|왕의물로|Wanguimul-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103015054|전동로|Jeondong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103015054|전동로|Jeondong-ro|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103240036|부강외천로|Bugangoecheon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103240036|부강외천로|Bugangoecheon-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103240037|부강행산로|Buganghaengsan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103240037|부강행산로|Buganghaengsan-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103240044|시목부강로|Simokbugang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103240044|시목부강로|Simokbugang-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103240071|저산척북로|Jeosancheokbuk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103240071|저산척북로|Jeosancheokbuk-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103240072|저산태성로|Jeosantaeseong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103240072|저산태성로|Jeosantaeseong-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103249068|가송로|Gasong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103249070|차령고개로|Charyeonggogae-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103249070|차령고개로|Charyeonggogae-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103251008|금벽로|Geumbyeok-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103251008|금벽로|Geumbyeok-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103251020|송곡로|Songgok-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103251036|장기로|Janggi-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103251036|장기로|Janggi-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103251036|장기로|Janggi-ro|02|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103251037|장척로|Jangcheok-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103251037|장척로|Jangcheok-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103251048|차령로|Charyeong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103251048|차령로|Charyeong-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103257069|세종오송로|Sejongosong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258001|군청로|Guncheong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258001|군청로|Guncheong-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258002|금병로|Geumbyeong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258002|금병로|Geumbyeong-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103258002|금병로|Geumbyeong-ro|02|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103258002|금병로|Geumbyeong-ro|03|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258002|금병로|Geumbyeong-ro|04|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103258003|금이로|Geumi-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258003|금이로|Geumi-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258003|금이로|Geumi-ro|02|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103258004|내판로|Naepan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258004|내판로|Naepan-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103258005|당산로|Dangsan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258005|당산로|Dangsan-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258005|당산로|Dangsan-ro|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258005|당산로|Dangsan-ro|03|세종특별자치시|Sejong-si|||산울동|Sanul-dong|1|115|0||||
+361103258006|대첩로|Daecheop-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258006|대첩로|Daecheop-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258006|대첩로|Daecheop-ro|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258007|도원1로|Dowon 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258007|도원1로|Dowon 1-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258008|도원2로|Dowon 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258008|도원2로|Dowon 2-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258009|도원로|Dowon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258009|도원로|Dowon-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258009|도원로|Dowon-ro|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258010|바람재로|Baramjae-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258010|바람재로|Baramjae-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103258011|봉산로|Bongsan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258011|봉산로|Bongsan-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258011|봉산로|Bongsan-ro|02|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103258012|비암로|Biam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258012|비암로|Biam-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258012|비암로|Biam-ro|02|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103258013|새내로|Saenae-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258013|새내로|Saenae-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258016|솔티로|Solti-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258016|솔티로|Solti-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258016|솔티로|Solti-ro|02|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103258017|송암로|Songam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258017|송암로|Songam-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103258018|수왕로|Suwang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258018|수왕로|Suwang-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258019|신송로|Sinsong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258019|신송로|Sinsong-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103258019|신송로|Sinsong-ro|02|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103258020|연서로|Yeonseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258020|연서로|Yeonseo-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258021|오봉로|Obong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258021|오봉로|Obong-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258021|오봉로|Obong-ro|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258022|와룡로|Waryong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258022|와룡로|Waryong-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258023|용포로|Yongpo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258023|용포로|Yongpo-ro|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103258023|용포로|Yongpo-ro|02|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103258024|원수산로|Wonsusan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258024|원수산로|Wonsusan-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258025|월산공단로|Wolsangongdan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258025|월산공단로|Wolsangongdan-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258026|월성로|Wolseong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258026|월성로|Wolseong-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258027|월하천로|Wolhacheon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258027|월하천로|Wolhacheon-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258028|이화1로|Ihwa 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258028|이화1로|Ihwa 1-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258028|이화1로|Ihwa 1-ro|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258029|이화로|Ihwa-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258029|이화로|Ihwa-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258030|장욱진로|Jangukjin-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258030|장욱진로|Jangukjin-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103258031|조치원로|Jochiwon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258031|조치원로|Jochiwon-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258032|죽림로|Jungnim-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258032|죽림로|Jungnim-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258033|죽림본로|Jungnimbon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258033|죽림본로|Jungnimbon-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258034|충현로|Chunghyeon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258034|충현로|Chunghyeon-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258035|태산로|Taesan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258035|태산로|Taesan-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258035|태산로|Taesan-ro|02|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103258035|태산로|Taesan-ro|03|세종특별자치시|Sejong-si|||합강동|Hapgang-dong|1|117|0||||
+361103258036|평안로|Pyeongan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258036|평안로|Pyeongan-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258037|함박로|Hambak-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258037|함박로|Hambak-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258038|허만석로|Heomanseok-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258038|허만석로|Heomanseok-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258039|효교로|Hyogyo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258039|효교로|Hyogyo-ro|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258040|공단로|Gongdan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258040|공단로|Gongdan-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258040|공단로|Gongdan-ro|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258042|매실로|Maesil-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258042|매실로|Maesil-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103258042|매실로|Maesil-ro|02|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103258043|문화로|Munhwa-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258043|문화로|Munhwa-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258046|장안로|Jangan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258046|장안로|Jangan-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103258051|가톨릭대학로|Catholicdaehak-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258051|가톨릭대학로|Catholicdaehak-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103258054|누리로|Nuri-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258054|누리로|Nuri-ro|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361103258055|누리1로|Nuri 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258055|누리1로|Nuri 1-ro|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361103258056|나리로|Nari-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258056|나리로|Nari-ro|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361103258056|나리로|Nari-ro|02|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258057|나리1로|Nari 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258057|나리1로|Nari 1-ro|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361103258059|노을1로|Noeul 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258059|노을1로|Noeul 1-ro|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361103258060|노을3로|Noeul 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258060|노을3로|Noeul 3-ro|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361103258061|금송로|Geumsong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258061|금송로|Geumsong-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103258061|금송로|Geumsong-ro|02|세종특별자치시|Sejong-si|||가람동|Garam-dong|1|105|0||||
+361103258063|용연로|Yongyeon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258063|용연로|Yongyeon-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103258063|용연로|Yongyeon-ro|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361103258064|갈산산수로|Galsansansu-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258064|갈산산수로|Galsansansu-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258064|갈산산수로|Galsansansu-ro|02|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103258065|노호등곡1로|Nohodeunggok 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258065|노호등곡1로|Nohodeunggok 1-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258066|노호등곡로|Nohodeunggok-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258066|노호등곡로|Nohodeunggok-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258067|부강금호로|Buganggeumho-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258067|부강금호로|Buganggeumho-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258068|부강로|Bugang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258068|부강로|Bugang-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258069|청연로|Cheongyeon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258069|청연로|Cheongyeon-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103258069|청연로|Cheongyeon-ro|02|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258070|퇴미로|Toemi-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258070|퇴미로|Toemi-ro|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361103258073|갈매로|Galmae-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258073|갈매로|Galmae-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258073|갈매로|Galmae-ro|03|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258073|갈매로|Galmae-ro|04|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258073|갈매로|Galmae-ro|05|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103258073|갈매로|Galmae-ro|06|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103258073|갈매로|Galmae-ro|07|세종특별자치시|Sejong-si|||해밀동|Haemil-dong|1|116|0||||
+361103258074|가름로|Gareum-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258074|가름로|Gareum-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258074|가름로|Gareum-ro|03|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103258075|절재로|Jeoljae-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258075|절재로|Jeoljae-ro|02|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258075|절재로|Jeoljae-ro|03|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258075|절재로|Jeoljae-ro|04|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258075|절재로|Jeoljae-ro|05|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103258076|다솜로|Dasom-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258076|다솜로|Dasom-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258076|다솜로|Dasom-ro|03|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258077|다솜1로|Dasom 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258077|다솜1로|Dasom 1-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258077|다솜1로|Dasom 1-ro|03|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258078|다솜2로|Dasom 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258078|다솜2로|Dasom 2-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258079|다솜3로|Dasom 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258079|다솜3로|Dasom 3-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258080|도움1로|Doum 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258080|도움1로|Doum 1-ro|02|세종특별자치시|Sejong-si|||종촌동|Jongchon-dong|1|111|0||||
+361103258080|도움1로|Doum 1-ro|03|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258081|도움2로|Doum 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258081|도움2로|Doum 2-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258082|도움3로|Doum 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258082|도움3로|Doum 3-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258082|도움3로|Doum 3-ro|03|세종특별자치시|Sejong-si|||종촌동|Jongchon-dong|1|111|0||||
+361103258083|도움4로|Doum 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258083|도움4로|Doum 4-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258084|도움5로|Doum 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258084|도움5로|Doum 5-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258085|도움6로|Doum 6-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258085|도움6로|Doum 6-ro|02|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258086|도움7로|Doum 7-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258087|도움8로|Doum 8-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258087|도움8로|Doum 8-ro|01|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258087|도움8로|Doum 8-ro|02|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258088|어울로|Eoul-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258088|어울로|Eoul-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103258088|어울로|Eoul-ro|02|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258090|보듬3로|Bodeum 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258090|보듬3로|Bodeum 3-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258090|보듬3로|Bodeum 3-ro|02|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103258091|라온로|Raon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258091|라온로|Raon-ro|01|세종특별자치시|Sejong-si|||가람동|Garam-dong|1|105|0||||
+361103258103|달빛로|Dalbit-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258103|달빛로|Dalbit-ro|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103258103|달빛로|Dalbit-ro|02|세종특별자치시|Sejong-si|||종촌동|Jongchon-dong|1|111|0||||
+361103258104|달빛1로|Dalbit 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258104|달빛1로|Dalbit 1-ro|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103258104|달빛1로|Dalbit 1-ro|02|세종특별자치시|Sejong-si|||종촌동|Jongchon-dong|1|111|0||||
+361103258105|만남로|Mannam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258105|만남로|Mannam-ro|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103258106|만남1로|Mannam 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258106|만남1로|Mannam 1-ro|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103258107|만남1북로|Mannam1buk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258107|만남1북로|Mannam1buk-ro|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103258108|마음로|Maeum-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258108|마음로|Maeum-ro|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103258109|마음안로|Maeuman-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258109|마음안로|Maeuman-ro|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103258110|마음안1로|Maeuman 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258110|마음안1로|Maeuman 1-ro|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103258111|마음안2로|Maeuman 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258111|마음안2로|Maeuman 2-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103258112|보듬1로|Bodeum 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258112|보듬1로|Bodeum 1-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258113|보듬2로|Bodeum 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258113|보듬2로|Bodeum 2-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258114|보듬4로|Bodeum 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258114|보듬4로|Bodeum 4-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258114|보듬4로|Bodeum 4-ro|02|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103258114|보듬4로|Bodeum 4-ro|03|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103258115|보듬5로|Bodeum 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258115|보듬5로|Bodeum 5-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258116|보듬6로|Bodeum 6-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258116|보듬6로|Bodeum 6-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258117|보듬7로|Bodeum 7-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258117|보듬7로|Bodeum 7-ro|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103258117|보듬7로|Bodeum 7-ro|02|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258118|보듬8로|Bodeum 8-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258118|보듬8로|Bodeum 8-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258119|미리내로|Mirinae-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258119|미리내로|Mirinae-ro|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103258119|미리내로|Mirinae-ro|02|세종특별자치시|Sejong-si|||산울동|Sanul-dong|1|115|0||||
+361103258125|보람로|Boram-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258125|보람로|Boram-ro|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103258126|하나로|Hana-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258126|하나로|Hana-ro|01|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361103258129|취금헌로|Chwigeumheon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103258129|취금헌로|Chwigeumheon-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103258129|취금헌로|Chwigeumheon-ro|02|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103350784|다정로|Dajeong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350784|다정로|Dajeong-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103350789|집현로|Jiphyeon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350790|남세종로|Namsejong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350790|남세종로|Namsejong-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103350790|남세종로|Namsejong-ro|02|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361103350790|남세종로|Namsejong-ro|03|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103350790|남세종로|Namsejong-ro|04|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103350790|남세종로|Namsejong-ro|05|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103350791|반곡로|Bangok-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350791|반곡로|Bangok-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103350792|소담로|Sodam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350792|소담로|Sodam-ro|01|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103350793|소담1로|Sodam 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350793|소담1로|Sodam 1-ro|01|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103350794|호려울로|Horyeoul-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350794|호려울로|Horyeoul-ro|01|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361103350795|대평로|Daepyeong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350795|대평로|Daepyeong-ro|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103350797|종합터미널로|Jonghapteomineol-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103350797|종합터미널로|Jonghapteomineol-ro|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103351031|명학산단남로|Myeonghaksandannam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351031|명학산단남로|Myeonghaksandannam-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103351101|명학산단로|Myeonghaksandan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351101|명학산단로|Myeonghaksandan-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103351102|명학산단서로|Myeonghaksandanseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351102|명학산단서로|Myeonghaksandanseo-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103351103|명학산단동로|Myeonghaksandandong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351103|명학산단동로|Myeonghaksandandong-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103351106|보람동로|Boramdong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351106|보람동로|Boramdong-ro|01|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361103351107|구즉세종로|Gujeuksejong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351153|소담4로|Sodam 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351153|소담4로|Sodam 4-ro|01|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103351216|국책연구원1로|Gukchaegyeonguwon 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351216|국책연구원1로|Gukchaegyeonguwon 1-ro|01|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103351238|새롬로|Saerom-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351238|새롬로|Saerom-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103351239|새롬중앙1로|Saeromjungang 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351239|새롬중앙1로|Saeromjungang 1-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103351240|다정동로|Dajeongdong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351241|나성동로|Naseongdong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351242|나성중앙1로|Naseongjungang 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351243|소담2로|Sodam 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351244|소담3로|Sodam 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351244|소담3로|Sodam 3-ro|01|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103351245|국책연구원2로|Gukchaegyeonguwon 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351245|국책연구원2로|Gukchaegyeonguwon 2-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103351246|국책연구원로|Gukchaegyeonguwon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351246|국책연구원로|Gukchaegyeonguwon-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103351247|국책연구원3로|Gukchaegyeonguwon 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351247|국책연구원3로|Gukchaegyeonguwon 3-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103351248|국책연구원4로|Gukchaegyeonguwon 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351248|국책연구원4로|Gukchaegyeonguwon 4-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103351249|중앙공원로|Junganggongwon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351249|중앙공원로|Junganggongwon-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103351251|명학산단1로|Myeonghaksandan 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351251|명학산단1로|Myeonghaksandan 1-ro|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361103351252|국립박물관로|Gungnipbangmulgwan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351252|국립박물관로|Gungnipbangmulgwan-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351253|용포서로|Yongposeo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351253|용포서로|Yongposeo-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103351254|소정산단로|Sojeongsandan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351254|소정산단로|Sojeongsandan-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103351255|소정산단1로|Sojeongsandan 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351255|소정산단1로|Sojeongsandan 1-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103351256|소정산단2로|Sojeongsandan 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351256|소정산단2로|Sojeongsandan 2-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103351257|소정산단서로|Sojeongsandanseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351257|소정산단서로|Sojeongsandanseo-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103351259|소정산단북로|Sojeongsandanbuk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351259|소정산단북로|Sojeongsandanbuk-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103351261|국세청로|Guksecheong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351261|국세청로|Guksecheong-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351271|한솔동로|Hansoldong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351271|한솔동로|Hansoldong-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351272|새롬동로|Saeromdong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351273|임난수로|Imnansu-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351273|임난수로|Imnansu-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103351274|모롱지로|Morongji-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351275|나성중앙2로|Naseongjungang 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351276|나성중앙로|Naseongjungang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351277|나성로|Naseong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351277|나성로|Naseong-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351278|나성북1로|Naseongbuk 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351278|나성북1로|Naseongbuk 1-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351279|나성북로|Naseongbuk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351279|나성북로|Naseongbuk-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351280|나성남로|Naseongnam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351280|나성남로|Naseongnam-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351281|다정북로|Dajeongbuk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351281|다정북로|Dajeongbuk-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103351282|다정남로|Dajeongnam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351282|다정남로|Dajeongnam-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103351283|새롬중앙로|Saeromjungang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351283|새롬중앙로|Saeromjungang-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103351284|다정중앙로|Dajeongjungang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351284|다정중앙로|Dajeongjungang-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103351285|다정서로|Dajeongseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351285|다정서로|Dajeongseo-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103351286|새롬서로|Saeromseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351286|새롬서로|Saeromseo-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103351287|정부2청사로|Jeongbu 2cheongsa-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351287|정부2청사로|Jeongbu 2cheongsa-ro|01|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351291|새롬북로|Saerombuk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351291|새롬북로|Saerombuk-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103351292|새롬다정로|Saeromdajeong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351292|새롬다정로|Saeromdajeong-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103351293|새롬남로|Saeromnam-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351293|새롬남로|Saeromnam-ro|01|세종특별자치시|Sejong-si|||새롬동|Saerom-dong|1|108|0||||
+361103351321|소정산단동로|Sojeongsandandong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351321|소정산단동로|Sojeongsandandong-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103351346|중앙공원서로|Junganggongwonseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351346|중앙공원서로|Junganggongwonseo-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103351346|중앙공원서로|Junganggongwonseo-ro|02|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103351356|세종청주로|Sejongcheongju-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351423|김처선로|Gimcheoseon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351423|김처선로|Gimcheoseon-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103351424|내창천로|Naechangcheon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351424|내창천로|Naechangcheon-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103351654|침산로|Chimsan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351654|침산로|Chimsan-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103351678|나성중앙4로|Naseongjungang 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351679|나성중앙3로|Naseongjungang 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351680|보람서로|Boramseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351680|보람서로|Boramseo-ro|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103351690|달빛2로|Dalbit 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351690|달빛2로|Dalbit 2-ro|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361103351766|세종평택로|Sejongpyeongtaek-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351787|이화2로|Ihwa 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351787|이화2로|Ihwa 2-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103351889|가온로|Gaon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351889|가온로|Gaon-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361103351890|해들로|Haedeul-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351890|해들로|Haedeul-ro|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103351901|종합운동장로|Jonghabundongjang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103351901|종합운동장로|Jonghabundongjang-ro|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361103352026|밝은뜰로|Balgeuntteul-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352026|밝은뜰로|Balgeuntteul-ro|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361103352027|국책연구원5로|Gukchaegyeonguwon 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352027|국책연구원5로|Gukchaegyeonguwon 5-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103352028|법원로|Beobwon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352028|법원로|Beobwon-ro|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361103352029|소담5로|Sodam 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352030|소담6로|Sodam 6-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352031|소담7로|Sodam 7-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352032|소담8로|Sodam 8-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352032|소담8로|Sodam 8-ro|01|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361103352210|운당로|Undang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352210|운당로|Undang-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103352211|금당로|Geumdang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352211|금당로|Geumdang-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103352212|행복마을로|Haengbongmaeul-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352212|행복마을로|Haengbongmaeul-ro|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361103352311|서북부1로|Seobukbu 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352312|서북부2로|Seobukbu 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352312|서북부2로|Seobukbu 2-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103352313|서북부3로|Seobukbu 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352313|서북부3로|Seobukbu 3-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103352314|서북부4로|Seobukbu 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352315|서북부5로|Seobukbu 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352316|서북부서로|Seobukbuseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352317|미래산단로|Miraesandan-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352317|미래산단로|Miraesandan-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103352318|미래산단1로|Miraesandan 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352319|미래산단2로|Miraesandan 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352320|미래산단3로|Miraesandan 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352320|미래산단3로|Miraesandan 3-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103352321|미래산단4로|Miraesandan 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352321|미래산단4로|Miraesandan 4-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103352322|미래산단5로|Miraesandan 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352323|미래산단6로|Miraesandan 6-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352323|미래산단6로|Miraesandan 6-ro|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361103352324|미래산단7로|Miraesandan 7-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352325|집현중앙6로|Jiphyeonjungang 6-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352326|집현중앙로|Jiphyeonjungang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352326|집현중앙로|Jiphyeonjungang-ro|01|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352327|집현중앙4로|Jiphyeonjungang 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352327|집현중앙4로|Jiphyeonjungang 4-ro|01|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352328|집현중앙3로|Jiphyeonjungang 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352328|집현중앙3로|Jiphyeonjungang 3-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103352328|집현중앙3로|Jiphyeonjungang 3-ro|02|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352329|집현중앙2로|Jiphyeonjungang 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352330|집현중앙5로|Jiphyeonjungang 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352331|집현중앙1로|Jiphyeonjungang 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352332|집현중앙7로|Jiphyeonjungang 7-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352332|집현중앙7로|Jiphyeonjungang 7-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103352332|집현중앙7로|Jiphyeonjungang 7-ro|02|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352333|집현동로|Jiphyeondong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352333|집현동로|Jiphyeondong-ro|01|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352337|집현북로|Jiphyeonbuk-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352337|집현북로|Jiphyeonbuk-ro|01|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352338|집현북1로|Jiphyeonbuk 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352339|집현서로|Jiphyeonseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352339|집현서로|Jiphyeonseo-ro|01|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352340|집현서2로|Jiphyeonseo 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352340|집현서2로|Jiphyeonseo 2-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103352340|집현서2로|Jiphyeonseo 2-ro|02|세종특별자치시|Sejong-si|||집현동|Jiphyeon-dong|1|118|0||||
+361103352341|양지1길|Yangji 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352341|양지1길|Yangji 1-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103352342|양지2길|Yangji 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352342|양지2길|Yangji 2-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361103352343|양지3길|Yangji 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352351|집현중앙8로|Jiphyeonjungang 8-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352356|집현서1로|Jiphyeonseo 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352357|집현동1로|Jiphyeondong 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352358|서북부로|Seobukbu-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352358|서북부로|Seobukbu-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103352646|도화로|Dohwa-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352646|도화로|Dohwa-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361103352647|나성중앙6로|Naseongjungang 6-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352648|나성중앙5로|Naseongjungang 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352651|소정산단3로|Sojeongsandan 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352652|소정산단4로|Sojeongsandan 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352652|소정산단4로|Sojeongsandan 4-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103352653|소정산단5로|Sojeongsandan 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352653|소정산단5로|Sojeongsandan 5-ro|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361103352712|수목원로|Sumogwon-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352712|수목원로|Sumogwon-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103352717|어울누리로|Eoulluri-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352717|어울누리로|Eoulluri-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103352717|어울누리로|Eoulluri-ro|02|세종특별자치시|Sejong-si|||나성동|Naseong-dong|1|107|0||||
+361103352751|달전황용로|Daljeonhwangyong-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352751|달전황용로|Daljeonhwangyong-ro|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361103352826|해밀1로|Haemil 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352826|해밀1로|Haemil 1-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103352826|해밀1로|Haemil 1-ro|02|세종특별자치시|Sejong-si|||해밀동|Haemil-dong|1|116|0||||
+361103352827|해밀2로|Haemil 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352827|해밀2로|Haemil 2-ro|01|세종특별자치시|Sejong-si|||해밀동|Haemil-dong|1|116|0||||
+361103352828|해밀3로|Haemil 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352828|해밀3로|Haemil 3-ro|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361103352828|해밀3로|Haemil 3-ro|02|세종특별자치시|Sejong-si|||해밀동|Haemil-dong|1|116|0||||
+361103352829|해밀4로|Haemil 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352830|해밀5로|Haemil 5-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352831|해밀6로|Haemil 6-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352832|해밀7로|Haemil 7-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352938|전동고가로|Jeondonggoga-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103352938|전동고가로|Jeondonggoga-ro|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361103353264|다정남서로|Dajeongnamseo-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361103353265|집현부강로|Jiphyeonbugang-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104015001|학수소사길|Haksusosa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104015001|학수소사길|Haksusosa-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104520244|문곡구절골길|Mungokgujeolgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104520244|문곡구절골길|Mungokgujeolgol-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104520297|부용남이길|Buyongnami-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104520297|부용남이길|Buyongnami-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104520580|저산궁현길|Jeosangunghyeon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104520581|저산길|Jeosan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104520673|행산벌말길|Haengsanbeolmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104520673|행산벌말길|Haengsanbeolmal-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104553435|방머리1길|Bangmeori 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104553435|방머리1길|Bangmeori 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104553680|송정길|Songjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104553680|송정길|Songjeong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104553887|용수천길|Yongsucheon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104553887|용수천길|Yongsucheon-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104554195|태산길|Taesan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104554195|태산길|Taesan-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104554297|황새미길|Hwangsaemi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104554297|황새미길|Hwangsaemi-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574001|가나물길|Ganamul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574001|가나물길|Ganamul-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574002|가느실길|Ganeusil-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574002|가느실길|Ganeusil-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574004|가동길|Gadong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574004|가동길|Gadong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574005|가마골길|Gamagol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574005|가마골길|Gamagol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574006|가재골길|Gajaegol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574006|가재골길|Gajaegol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574007|가재울길|Gajaeul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574007|가재울길|Gajaeul-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574009|각골길|Gakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574009|각골길|Gakgol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574010|간말길|Ganmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574010|간말길|Ganmal-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574011|갈거리길|Galgeori-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574011|갈거리길|Galgeori-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574012|갈운1길|Garun 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574012|갈운1길|Garun 1-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104574012|갈운1길|Garun 1-gil|02|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574012|갈운1길|Garun 1-gil|03|세종특별자치시|Sejong-si|||해밀동|Haemil-dong|1|116|0||||
+361104574014|감성길|Gamseong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574014|감성길|Gamseong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574015|강변길|Gangbyeon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574015|강변길|Gangbyeon-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574016|거제길|Geoje-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574016|거제길|Geoje-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574017|건강1길|Geongang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574017|건강1길|Geongang 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574018|건강길|Geongang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574018|건강길|Geongang-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574019|건너말고샅길|Geonneomalgosat-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574019|건너말고샅길|Geonneomalgosat-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574020|고등삼기길|Godeungsamgi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574020|고등삼기길|Godeungsamgi-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574022|고등안골길|Godeungangol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574022|고등안골길|Godeungangol-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574023|고복동막골길|Gobokdongmakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574023|고복동막골길|Gobokdongmakgol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574024|고복오봉산길|Gobogobongsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574024|고복오봉산길|Gobogobongsan-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574025|고산길|Gosan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574025|고산길|Gosan-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574026|골말길|Golmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574026|골말길|Golmal-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574029|관정골길|Gwanjeonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574029|관정골길|Gwanjeonggol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574030|광명길|Gwangmyeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574030|광명길|Gwangmyeong-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574031|광중새터말길|Gwangjungsaeteomal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574031|광중새터말길|Gwangjungsaeteomal-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574032|교촌1길|Gyochon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574032|교촌1길|Gyochon 1-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574033|교촌2길|Gyochon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574033|교촌2길|Gyochon 2-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574034|교촌3길|Gyochon 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574034|교촌3길|Gyochon 3-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574035|교촌길|Gyochon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574035|교촌길|Gyochon-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574036|구렁말길|Gureongmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574036|구렁말길|Gureongmal-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574038|구름들이길|Gureumdeuri-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574038|구름들이길|Gureumdeuri-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574038|구름들이길|Gureumdeuri-gil|02|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574039|구리골길|Gurigol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574039|구리골길|Gurigol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574040|구서원길|Guseowon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574040|구서원길|Guseowon-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574041|국촌1길|Gukchon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574041|국촌1길|Gukchon 1-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574042|국촌2길|Gukchon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574042|국촌2길|Gukchon 2-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574043|군량골길|Gullyanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574043|군량골길|Gullyanggol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574044|군량길|Gullyang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574044|군량길|Gullyang-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574045|궁리길|Gungni-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574045|궁리길|Gungni-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574046|근성길|Geunseong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574046|근성길|Geunseong-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574047|금강변길|Geumgangbyeon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574047|금강변길|Geumgangbyeon-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104574047|금강변길|Geumgangbyeon-gil|02|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574047|금강변길|Geumgangbyeon-gil|03|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361104574047|금강변길|Geumgangbyeon-gil|04|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361104574047|금강변길|Geumgangbyeon-gil|05|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361104574049|금반형길|Geumbanhyeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574049|금반형길|Geumbanhyeong-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574050|금사길|Geumsa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574050|금사길|Geumsa-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574051|금지1길|Geumji 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574051|금지1길|Geumji 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574052|금지2길|Geumji 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574052|금지2길|Geumji 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574053|금천1길|Geumcheon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574053|금천1길|Geumcheon 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574054|금천2길|Geumcheon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574054|금천2길|Geumcheon 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574055|기와말1길|Giwamal 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574055|기와말1길|Giwamal 1-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574056|기와말2길|Giwamal 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574056|기와말2길|Giwamal 2-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574059|남곡1길|Namgok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574059|남곡1길|Namgok 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574060|남곡2길|Namgok 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574060|남곡2길|Namgok 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574061|내서길|Naeseo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574061|내서길|Naeseo-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574062|내창1길|Naechang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574062|내창1길|Naechang 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574063|내창2길|Naechang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574063|내창2길|Naechang 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574064|내창3길|Naechang 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574064|내창3길|Naechang 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574065|너먼들길|Neomeondeul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574065|너먼들길|Neomeondeul-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574066|넉바위길|Neokbawi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574066|넉바위길|Neokbawi-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574066|넉바위길|Neokbawi-gil|02|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574067|넉바위백호길|Neokbawibaekho-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574067|넉바위백호길|Neokbawibaekho-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574068|노곡길|Nogok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574068|노곡길|Nogok-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574069|노리미길|Norimi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574069|노리미길|Norimi-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574070|노송강당길|Nosonggangdang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574070|노송강당길|Nosonggangdang-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574071|노송송담길|Nosongsongdam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574071|노송송담길|Nosongsongdam-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574072|노송웅골길|Nosongunggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574072|노송웅골길|Nosongunggol-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574073|노장공단길|Nojanggongdan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574073|노장공단길|Nojanggongdan-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574074|높은정이길|Nopeunjeongi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574074|높은정이길|Nopeunjeongi-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574075|눌왕길|Nurwang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574075|눌왕길|Nurwang-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574076|눌왕새터말길|Nurwangsaeteomal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574076|눌왕새터말길|Nurwangsaeteomal-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574076|눌왕새터말길|Nurwangsaeteomal-gil|02|세종특별자치시|Sejong-si|||산울동|Sanul-dong|1|115|0||||
+361104574077|느리골길|Neurigol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574077|느리골길|Neurigol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574078|느리울길|Neuriul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574078|느리울길|Neuriul-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574079|능골길|Neunggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574079|능골길|Neunggol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574080|다락동길|Darakdong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574080|다락동길|Darakdong-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574081|다막골1길|Damakgol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574081|다막골1길|Damakgol 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574083|다막골길|Damakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574083|다막골길|Damakgol-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574084|다운내길|Daunnae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574084|다운내길|Daunnae-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574087|당산말길|Dangsanmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574087|당산말길|Dangsanmal-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574088|대동학교길|Daedonghakgyo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574088|대동학교길|Daedonghakgyo-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574089|대박길|Daebak-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574089|대박길|Daebak-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574090|대사동길|Daesadong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574090|대사동길|Daesadong-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574091|대실1길|Daesil 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574091|대실1길|Daesil 1-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574092|대실2길|Daesil 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574092|대실2길|Daesil 2-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574093|대추리길|Daechuri-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574093|대추리길|Daechuri-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574094|대평시장1길|Daepyeongsijang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574094|대평시장1길|Daepyeongsijang 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574095|대평시장2길|Daepyeongsijang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574095|대평시장2길|Daepyeongsijang 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574096|덕고개길|Deokgogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574096|덕고개길|Deokgogae-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574097|덕용골길|Deogyonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574097|덕용골길|Deogyonggol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574098|도래말길|Doraemal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574098|도래말길|Doraemal-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574100|도암1길|Doam 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574100|도암1길|Doam 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574101|도암2길|Doam 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574101|도암2길|Doam 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574102|도암영곡길|Doamyeonggok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574102|도암영곡길|Doamyeonggok-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574103|도장말길|Dojangmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574103|도장말길|Dojangmal-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574104|도청길|Docheong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574104|도청길|Docheong-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574105|돈지길|Donji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574105|돈지길|Donji-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574106|돌간1길|Dolgan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574106|돌간1길|Dolgan 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574107|돌간2길|Dolgan 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574107|돌간2길|Dolgan 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574108|돌간길|Dolgan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574108|돌간길|Dolgan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574109|돌마루1길|Dolmaru 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574109|돌마루1길|Dolmaru 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574111|돌마루3길|Dolmaru 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574111|돌마루3길|Dolmaru 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574112|돌마루4길|Dolmaru 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574112|돌마루4길|Dolmaru 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574113|돌마루5길|Dolmaru 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574113|돌마루5길|Dolmaru 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574114|돌마루6길|Dolmaru 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574114|돌마루6길|Dolmaru 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574115|돌마루7길|Dolmaru 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574115|돌마루7길|Dolmaru 7-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574116|돌마루길|Dolmaru-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574116|돌마루길|Dolmaru-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574117|동고길|Donggo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574117|동고길|Donggo-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574118|동교동촌1길|Donggyodongchon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574118|동교동촌1길|Donggyodongchon 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574119|동교동촌2길|Donggyodongchon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574119|동교동촌2길|Donggyodongchon 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574120|동교산수골길|Donggyosansugol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574120|동교산수골길|Donggyosansugol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574121|동교샘골1길|Donggyosaemgol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574121|동교샘골1길|Donggyosaemgol 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574122|동교윗샘골길|Donggyowitsaemgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574122|동교윗샘골길|Donggyowitsaemgol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574123|동막골길|Dongmakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574123|동막골길|Dongmakgol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574124|동산길|Dongsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574124|동산길|Dongsan-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574125|동신길|Dongsin-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574125|동신길|Dongsin-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574126|두루봉길|Durubong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574126|두루봉길|Durubong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574127|두만길|Duman-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574127|두만길|Duman-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574128|두만산동길|Dumansandong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574128|두만산동길|Dumansandong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574129|둔대밤절길|Dundaebamjeol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574129|둔대밤절길|Dundaebamjeol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574130|둔덕골길|Dundeokgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574130|둔덕골길|Dundeokgol-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574131|둥구리재길|Dunggurijae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574131|둥구리재길|Dunggurijae-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574132|뒤골길|Dwigol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574132|뒤골길|Dwigol-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574133|뒷고랑길|Dwitgorang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574133|뒷고랑길|Dwitgorang-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574135|만세길|Manse-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574135|만세길|Manse-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574136|망골길|Manggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574136|망골길|Manggol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574137|매바위길|Maebawi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574137|매바위길|Maebawi-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574139|맹골1길|Maenggol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574139|맹골1길|Maenggol 1-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574140|맹골2길|Maenggol 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574140|맹골2길|Maenggol 2-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574141|머지미길|Meojimi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574141|머지미길|Meojimi-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574142|명학1길|Myeonghak 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574142|명학1길|Myeonghak 1-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574143|명학2길|Myeonghak 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574143|명학2길|Myeonghak 2-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574144|명학남촌길|Myeonghangnamchon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574144|명학남촌길|Myeonghangnamchon-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574145|명학서촌길|Myeonghakseochon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574145|명학서촌길|Myeonghakseochon-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574147|모과나무2길|Mogwanamu 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574147|모과나무2길|Mogwanamu 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574148|모과나무3길|Mogwanamu 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574148|모과나무3길|Mogwanamu 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574149|모과나무길|Mogwanamu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574149|모과나무길|Mogwanamu-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574150|모산고개길|Mosangogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574150|모산고개길|Mosangogae-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574150|모산고개길|Mosangogae-gil|02|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574151|모시터길|Mositeo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574151|모시터길|Mositeo-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574152|문암신촌길|Munamsinchon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574152|문암신촌길|Munamsinchon-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574153|문예회관길|Munyehoegwan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574153|문예회관길|Munyehoegwan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574154|문절사길|Munjeolsa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574154|문절사길|Munjeolsa-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574155|문주길|Munju-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574155|문주길|Munju-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574156|문화1길|Munhwa 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574156|문화1길|Munhwa 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574157|문화2길|Munhwa 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574157|문화2길|Munhwa 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574158|문화3길|Munhwa 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574158|문화3길|Munhwa 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574159|문화4길|Munhwa 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574159|문화4길|Munhwa 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574160|문화5길|Munhwa 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574160|문화5길|Munhwa 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574161|문화6길|Munhwa 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574161|문화6길|Munhwa 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574162|문화7길|Munhwa 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574162|문화7길|Munhwa 7-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574163|문화길|Munhwa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574163|문화길|Munhwa-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574165|미꾸지길|Mikkuji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574165|미꾸지길|Mikkuji-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574166|미륵당1길|Mireukdang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574166|미륵당1길|Mireukdang 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574166|미륵당1길|Mireukdang 1-gil|02|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574167|미륵당2길|Mireukdang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574167|미륵당2길|Mireukdang 2-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574168|바위내길|Bawinae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574168|바위내길|Bawinae-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574169|박산1길|Baksan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574169|박산1길|Baksan 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574170|박산2길|Baksan 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574170|박산2길|Baksan 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574172|발산1길|Balsan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574172|발산1길|Balsan 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574173|발산2길|Balsan 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574173|발산2길|Balsan 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574174|발산3길|Balsan 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574174|발산3길|Balsan 3-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574175|밤나무골길|Bamnamugol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574175|밤나무골길|Bamnamugol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574176|방죽안길|Bangjugan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574176|방죽안길|Bangjugan-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574177|방축골길|Bangchukgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574177|방축골길|Bangchukgol-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574177|방축골길|Bangchukgol-gil|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574178|배수장길|Baesujang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574178|배수장길|Baesujang-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574179|배일길|Baeil-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574179|배일길|Baeil-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574180|백관1길|Baekgwan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574180|백관1길|Baekgwan 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574181|백관길|Baekgwan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574181|백관길|Baekgwan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574181|백관길|Baekgwan-gil|02|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574183|뱅이골길|Baengigol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574183|뱅이골길|Baengigol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574184|번암공단1길|Beonamgongdan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574184|번암공단1길|Beonamgongdan 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574185|번암공단2길|Beonamgongdan 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574185|번암공단2길|Beonamgongdan 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574186|번암안동네1길|Beonamandongne 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574186|번암안동네1길|Beonamandongne 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574187|번암안동네2길|Beonamandongne 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574187|번암안동네2길|Beonamandongne 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574188|번암안동네길|Beonamandongne-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574188|번암안동네길|Beonamandongne-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574189|번암터길|Beonamteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574189|번암터길|Beonamteo-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574190|번영1길|Beonyeong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574190|번영1길|Beonyeong 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574191|번영2길|Beonyeong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574191|번영2길|Beonyeong 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574192|벌말길|Beolmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574192|벌말길|Beolmal-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574197|보람길|Boram-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574197|보람길|Boram-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574198|보통1길|Botong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574198|보통1길|Botong 1-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574199|보통2길|Botong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574199|보통2길|Botong 2-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574200|보통3길|Botong 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574200|보통3길|Botong 3-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574201|복골길|Bokgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574201|복골길|Bokgol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574203|봉대1길|Bongdae 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574203|봉대1길|Bongdae 1-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574204|봉대2길|Bongdae 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574204|봉대2길|Bongdae 2-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574205|봉산윗말1길|Bongsanwinmal 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574205|봉산윗말1길|Bongsanwinmal 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574206|봉산윗말2길|Bongsanwinmal 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574206|봉산윗말2길|Bongsanwinmal 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574207|봉산윗말3길|Bongsanwinmal 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574207|봉산윗말3길|Bongsanwinmal 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574208|봉신길|Bongsin-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574208|봉신길|Bongsin-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574209|봉암길|Bongam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574209|봉암길|Bongam-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574210|봉암새동네길|Bongamsaedongne-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574210|봉암새동네길|Bongamsaedongne-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574211|봉천길|Bongcheon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574211|봉천길|Bongcheon-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574212|부거실길|Bugeosil-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574212|부거실길|Bugeosil-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574213|부곡길|Bugok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574213|부곡길|Bugok-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574214|부국길|Buguk-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574214|부국길|Buguk-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574216|부래미앞들길|Buraemiapdeul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574216|부래미앞들길|Buraemiapdeul-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574217|북암천길|Bugamcheon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574217|북암천길|Bugamcheon-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574218|북촌1길|Bukchon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574218|북촌1길|Bukchon 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574219|북촌2길|Bukchon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574219|북촌2길|Bukchon 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574220|불당골길|Buldanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574220|불당골길|Buldanggol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574221|붉은덕길|Bulgeundeok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574221|붉은덕길|Bulgeundeok-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574222|비로봉길|Birobong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574222|비로봉길|Birobong-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574223|비암사길|Biamsa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574223|비암사길|Biamsa-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574224|사관정길|Sagwanjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574224|사관정길|Sagwanjeong-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574225|사기소길|Sagiso-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574225|사기소길|Sagiso-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574226|사냥골길|Sanyanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574226|사냥골길|Sanyanggol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574227|사방골길|Sabanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574227|사방골길|Sabanggol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574228|사시리길|Sasiri-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574228|사시리길|Sasiri-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574229|사장골길|Sajanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574229|사장골길|Sajanggol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574230|산단길|Sandan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574230|산단길|Sandan-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574231|산막1길|Sanmak 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574231|산막1길|Sanmak 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574232|산막2길|Sanmak 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574232|산막2길|Sanmak 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574233|산막3길|Sanmak 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574233|산막3길|Sanmak 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574234|산막4길|Sanmak 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574234|산막4길|Sanmak 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574235|산막5길|Sanmak 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574235|산막5길|Sanmak 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574236|산막길|Sanmak-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574236|산막길|Sanmak-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574237|산책1길|Sanchaek 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574237|산책1길|Sanchaek 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574238|산책2길|Sanchaek 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574238|산책2길|Sanchaek 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574239|산책길|Sanchaek-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574239|산책길|Sanchaek-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574240|살구정길|Salgujeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574240|살구정길|Salgujeong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574241|삼성길|Samseong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574241|삼성길|Samseong-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574242|삼성당1길|Samseongdang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574242|삼성당1길|Samseongdang 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574243|삼성당2길|Samseongdang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574243|삼성당2길|Samseongdang 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574244|삼송정길|Samsongjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574244|삼송정길|Samsongjeong-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574245|상교동1길|Sanggyodong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574245|상교동1길|Sanggyodong 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574246|상교동2길|Sanggyodong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574246|상교동2길|Sanggyodong 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574247|상노장길|Sangnojang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574247|상노장길|Sangnojang-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574248|상대부길|Sangdaebu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574248|상대부길|Sangdaebu-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574249|상리1길|Sangni 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574249|상리1길|Sangni 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574250|상리2길|Sangni 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574250|상리2길|Sangni 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574251|상석곡길|Sangseokgok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574251|상석곡길|Sangseokgok-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574252|상안길|Sangan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574252|상안길|Sangan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574253|새내10길|Saenae 10-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574253|새내10길|Saenae 10-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574254|새내11길|Saenae 11-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574254|새내11길|Saenae 11-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574255|새내12길|Saenae 12-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574255|새내12길|Saenae 12-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574256|새내13길|Saenae 13-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574256|새내13길|Saenae 13-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574257|새내14길|Saenae 14-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574257|새내14길|Saenae 14-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574258|새내15길|Saenae 15-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574258|새내15길|Saenae 15-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574259|새내16길|Saenae 16-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574259|새내16길|Saenae 16-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574260|새내17길|Saenae 17-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574260|새내17길|Saenae 17-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574261|새내18길|Saenae 18-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574261|새내18길|Saenae 18-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574263|새내1길|Saenae 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574263|새내1길|Saenae 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574265|새내21길|Saenae 21-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574265|새내21길|Saenae 21-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574266|새내22길|Saenae 22-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574266|새내22길|Saenae 22-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574267|새내2길|Saenae 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574267|새내2길|Saenae 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574268|새내4길|Saenae 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574268|새내4길|Saenae 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574269|새내5길|Saenae 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574269|새내5길|Saenae 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574270|새내6길|Saenae 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574270|새내6길|Saenae 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574271|새내7길|Saenae 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574271|새내7길|Saenae 7-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574272|새내8길|Saenae 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574272|새내8길|Saenae 8-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574273|새내9길|Saenae 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574273|새내9길|Saenae 9-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574274|새동네뒷골길|Saedongnedwitgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574274|새동네뒷골길|Saedongnedwitgol-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574275|새말길|Saemal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574275|새말길|Saemal-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574276|새말다복동길|Saemaldabokdong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574276|새말다복동길|Saemaldabokdong-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574277|새주막1길|Saejumak 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574277|새주막1길|Saejumak 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574278|새주막2길|Saejumak 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574278|새주막2길|Saejumak 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574279|새주막3길|Saejumak 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574279|새주막3길|Saejumak 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574280|새주막4길|Saejumak 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574280|새주막4길|Saejumak 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574281|새터말길|Saeteomal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574281|새터말길|Saeteomal-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574283|샘째길|Saemjjae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574283|샘째길|Saemjjae-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574284|생송1길|Saengsong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574284|생송1길|Saengsong 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574285|생송2길|Saengsong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574285|생송2길|Saengsong 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574286|생이길|Saengi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574286|생이길|Saengi-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574287|생천길|Saengcheon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574287|생천길|Saengcheon-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574288|서고길|Seogo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574288|서고길|Seogo-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574289|서부길|Seobu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574289|서부길|Seobu-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574290|서부안길|Seobuan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574290|서부안길|Seobuan-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574291|서원길|Seowon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574291|서원길|Seowon-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574292|서정길|Seojeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574292|서정길|Seojeong-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574292|서정길|Seojeong-gil|02|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574293|서창냇가길|Seochangnaetga-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574293|서창냇가길|Seochangnaetga-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574294|서창안길|Seochangan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574294|서창안길|Seochangan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574295|서태길|Seotae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574295|서태길|Seotae-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574298|섭골골목길|Seopgolgolmok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574298|섭골골목길|Seopgolgolmok-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574299|섭골길|Seopgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574299|섭골길|Seopgol-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574300|섭장골길|Seopjanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574300|섭장골길|Seopjanggol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574301|성곡새말길|Seonggoksaemal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574301|성곡새말길|Seonggoksaemal-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574302|성곡잿말길|Seonggokjaenmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574302|성곡잿말길|Seonggokjaenmal-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574303|성덕1길|Seongdeok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574303|성덕1길|Seongdeok 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574304|성덕2길|Seongdeok 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574304|성덕2길|Seongdeok 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574305|성덕도암길|Seongdeokdoam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574305|성덕도암길|Seongdeokdoam-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574306|성덕영곡길|Seongdeogyeonggok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574306|성덕영곡길|Seongdeogyeonggok-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574307|성동길|Seongdong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574307|성동길|Seongdong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574309|성제길|Seongje-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574309|성제길|Seongje-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574310|성제서당골길|Seongjeseodanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574310|성제서당골길|Seongjeseodanggol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574312|소롱골길|Soronggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574312|소롱골길|Soronggol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574313|소정구길|Sojeonggu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574313|소정구길|Sojeonggu-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574313|소정구길|Sojeonggu-gil|02|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574314|소정길|Sojeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574314|소정길|Sojeong-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574315|소정샘골길|Sojeongsaemgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574315|소정샘골길|Sojeongsaemgol-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574316|소정안골1길|Sojeongangol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574316|소정안골1길|Sojeongangol 1-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574317|소정안골2길|Sojeongangol 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574317|소정안골2길|Sojeongangol 2-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574318|소죽골길|Sojukgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574318|소죽골길|Sojukgol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574319|송마길|Songma-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574319|송마길|Songma-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574320|송성길|Songseong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574320|송성길|Songseong-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574321|송용1길|Songyong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574321|송용1길|Songyong 1-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574322|송용2길|Songyong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574322|송용2길|Songyong 2-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574323|송적골길|Songjeokgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574323|송적골길|Songjeokgol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574325|송정새터길|Songjeongsaeteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574325|송정새터길|Songjeongsaeteo-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574326|수구동길|Sugudong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574326|수구동길|Sugudong-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574327|수랑골길|Suranggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574327|수랑골길|Suranggol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574328|수문강길|Sumungang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574328|수문강길|Sumungang-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574328|수문강길|Sumungang-gil|02|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574329|수산길|Susan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574329|수산길|Susan-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574330|수원지1길|Suwonji 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574330|수원지1길|Suwonji 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574331|수원지2길|Suwonji 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574331|수원지2길|Suwonji 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574332|수원지3길|Suwonji 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574332|수원지3길|Suwonji 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574333|수원지길|Suwonji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574333|수원지길|Suwonji-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574334|수회길|Suhoe-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574334|수회길|Suhoe-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574335|신대송정길|Sindaesongjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574335|신대송정길|Sindaesongjeong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574336|신림길|Sillim-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574336|신림길|Sillim-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574337|신방새터길|Sinbangsaeteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574337|신방새터길|Sinbangsaeteo-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574338|신안새동네1길|Sinansaedongne 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574338|신안새동네1길|Sinansaedongne 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574339|신안새동네2길|Sinansaedongne 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574339|신안새동네2길|Sinansaedongne 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574340|신안새동네길|Sinansaedongne-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574340|신안새동네길|Sinansaedongne-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574341|신암골길|Sinamgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574341|신암골길|Sinamgol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574342|신정음담말길|Sinjeongeumdammal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574342|신정음담말길|Sinjeongeumdammal-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574343|신촌1길|Sinchon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574343|신촌1길|Sinchon 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574344|신촌2길|Sinchon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574344|신촌2길|Sinchon 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574345|신흥고샅1길|Sinheunggosat 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574345|신흥고샅1길|Sinheunggosat 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574346|신흥고샅길|Sinheunggosat-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574346|신흥고샅길|Sinheunggosat-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574347|신흥사길|Sinheungsa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574347|신흥사길|Sinheungsa-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574348|신흥샛터1길|Sinheungsaetteo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574348|신흥샛터1길|Sinheungsaetteo 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574349|신흥샛터2길|Sinheungsaetteo 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574349|신흥샛터2길|Sinheungsaetteo 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574350|신흥샛터3길|Sinheungsaetteo 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574350|신흥샛터3길|Sinheungsaetteo 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574351|신흥샛터4길|Sinheungsaetteo 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574351|신흥샛터4길|Sinheungsaetteo 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574352|신흥샛터길|Sinheungsaetteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574352|신흥샛터길|Sinheungsaetteo-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574354|쌍류송암길|Ssangnyusongam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574354|쌍류송암길|Ssangnyusongam-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574355|쌍전길|Ssangjeon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574355|쌍전길|Ssangjeon-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574356|아래깊은내길|Araegipeunnae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574356|아래깊은내길|Araegipeunnae-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574357|아사디길|Asadi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574357|아사디길|Asadi-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574358|아야목길|Ayamok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574358|아야목길|Ayamok-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574359|아홉거리길|Ahopgeori-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574359|아홉거리길|Ahopgeori-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574361|안모산길|Anmosan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574361|안모산길|Anmosan-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574362|안산길|Ansan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574362|안산길|Ansan-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574363|안터1길|Anteo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574363|안터1길|Anteo 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574364|안터길|Anteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574364|안터길|Anteo-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574365|암천길|Amcheon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574365|암천길|Amcheon-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574367|양달말길|Yangdalmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574367|양달말길|Yangdalmal-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574368|양대길|Yangdae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574368|양대길|Yangdae-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574369|양안이길|Yangani-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574369|양안이길|Yangani-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574370|양지편길|Yangjipyeon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574370|양지편길|Yangjipyeon-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574376|어천길|Eocheon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574376|어천길|Eocheon-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574377|언고개길|Eongogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574377|언고개길|Eongogae-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574378|연기길|Yeongi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574378|연기길|Yeongi-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574379|연지길|Yeonji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574379|연지길|Yeonji-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574381|연화사길|Yeonhwasa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574381|연화사길|Yeonhwasa-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574382|영골길|Yeonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574382|영골길|Yeonggol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574383|영대1길|Yeongdae 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574383|영대1길|Yeongdae 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574384|영대2길|Yeongdae 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574384|영대2길|Yeongdae 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574385|영성들길|Yeongseongdeul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574385|영성들길|Yeongseongdeul-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574386|영치안골길|Yeongchiangol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574386|영치안골길|Yeongchiangol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574387|예양길|Yeyang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574387|예양길|Yeyang-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574388|오구미1길|Ogumi 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574388|오구미1길|Ogumi 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574389|오구미2길|Ogumi 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574389|오구미2길|Ogumi 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574390|오구미3길|Ogumi 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574390|오구미3길|Ogumi 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574391|오룡동길|Oryongdong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574391|오룡동길|Oryongdong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574392|오류골길|Oryugol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574392|오류골길|Oryugol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574393|오얏고지길|Oyatgoji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574393|오얏고지길|Oyatgoji-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574394|옹달길|Ongdal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574394|옹달길|Ongdal-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574397|외왕길|Oewang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574397|외왕길|Oewang-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574398|요곡길|Yogok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574398|요곡길|Yogok-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574399|요골길|Yogol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574399|요골길|Yogol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574400|용담길|Yongdam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574400|용담길|Yongdam-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574401|용두미길|Yongdumi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574401|용두미길|Yongdumi-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574402|용산대길|Yongsandae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574402|용산대길|Yongsandae-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574403|용암금단길|Yongamgeumdan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574403|용암금단길|Yongamgeumdan-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574404|용포1길|Yongpo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574404|용포1길|Yongpo 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574405|용포2길|Yongpo 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574405|용포2길|Yongpo 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574406|용포느티나무길|Yongponeutinamu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574406|용포느티나무길|Yongponeutinamu-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574407|용포쑥티1길|Yongpossukti 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574407|용포쑥티1길|Yongpossukti 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574408|용포쑥티2길|Yongpossukti 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574408|용포쑥티2길|Yongpossukti 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574409|용포외곽길|Yongpooegwak-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574409|용포외곽길|Yongpooegwak-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574410|용포이암길|Yongpoiam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574410|용포이암길|Yongpoiam-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574411|용포중앙1길|Yongpojungang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574411|용포중앙1길|Yongpojungang 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574412|용포중앙2길|Yongpojungang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574412|용포중앙2길|Yongpojungang 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574413|용호1길|Yongho 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574413|용호1길|Yongho 1-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574415|운당길|Undang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574415|운당길|Undang-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574416|운주길|Unju-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574416|운주길|Unju-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574417|원닥골길|Wondakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574417|원닥골길|Wondakgol-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574418|원마루길|Wonmaru-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574418|원마루길|Wonmaru-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574419|원왕길|Wonwang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574419|원왕길|Wonwang-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574420|원직이길|Wonjigi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574420|원직이길|Wonjigi-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574421|원합강1길|Wonhapgang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574421|원합강1길|Wonhapgang 1-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574421|원합강1길|Wonhapgang 1-gil|02|세종특별자치시|Sejong-si|||합강동|Hapgang-dong|1|117|0||||
+361104574424|월산새뜸길|Wolsansaetteum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574424|월산새뜸길|Wolsansaetteum-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574425|월산황골길|Wolsanhwanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574425|월산황골길|Wolsanhwanggol-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574426|월정길|Woljeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574426|월정길|Woljeong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574427|월하1길|Wolha 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574427|월하1길|Wolha 1-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574428|월하2길|Wolha 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574428|월하2길|Wolha 2-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574429|윗다락골길|Witdarakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574429|윗다락골길|Witdarakgol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574430|으뜸길|Eutteum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574430|으뜸길|Eutteum-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574431|은동길|Eundong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574431|은동길|Eundong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574432|은암길|Eunam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574432|은암길|Eunam-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574433|은행나무길|Eunhaengnamu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574433|은행나무길|Eunhaengnamu-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574434|음담말길|Eumdammal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574434|음담말길|Eumdammal-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574435|읍내길|Eumnae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574435|읍내길|Eumnae-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574436|읍내황골1길|Eumnaehwanggol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574436|읍내황골1길|Eumnaehwanggol 1-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574437|읍내황골2길|Eumnaehwanggol 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574437|읍내황골2길|Eumnaehwanggol 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574438|응달길|Eungdal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574438|응달길|Eungdal-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574439|응암1길|Eungam 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574439|응암1길|Eungam 1-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574440|응암2길|Eungam 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574440|응암2길|Eungam 2-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574441|응암노곡길|Eungamnogok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574441|응암노곡길|Eungamnogok-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574442|의넘어길|Uineomeo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574442|의넘어길|Uineomeo-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574444|이목동길|Imokdong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574444|이목동길|Imokdong-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574445|이적골길|Ijeokgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574445|이적골길|Ijeokgol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574446|자룡길|Jaryong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574446|자룡길|Jaryong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574447|작은창고개길|Jageunchanggogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574447|작은창고개길|Jageunchanggogae-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574448|작은황골길|Jageunhwanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574448|작은황골길|Jageunhwanggol-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574449|잣띠길|Jattti-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574449|잣띠길|Jattti-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574450|장군배길|Janggunbae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574450|장군배길|Janggunbae-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574451|장등고개길|Jangdeunggogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574451|장등고개길|Jangdeunggogae-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574452|장등길|Jangdeung-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574452|장등길|Jangdeung-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574453|장안1길|Jangan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574453|장안1길|Jangan 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574454|장안2길|Jangan 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574454|장안2길|Jangan 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574455|장안길|Jangan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574455|장안길|Jangan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574457|장재길|Jangjae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574457|장재길|Jangjae-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574458|장전말길|Jangjeonmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574458|장전말길|Jangjeonmal-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574459|장터길|Jangteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574459|장터길|Jangteo-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574460|전의역길|Jeonuiyeok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574460|전의역길|Jeonuiyeok-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574462|조뱅이길|Jobaengi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574462|조뱅이길|Jobaengi-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574463|조치원10길|Jochiwon 10-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574463|조치원10길|Jochiwon 10-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574464|조치원11길|Jochiwon 11-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574464|조치원11길|Jochiwon 11-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574465|조치원12길|Jochiwon 12-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574465|조치원12길|Jochiwon 12-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574466|조치원1길|Jochiwon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574466|조치원1길|Jochiwon 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574467|조치원2길|Jochiwon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574467|조치원2길|Jochiwon 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574468|조치원3길|Jochiwon 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574468|조치원3길|Jochiwon 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574469|조치원4길|Jochiwon 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574469|조치원4길|Jochiwon 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574470|조치원5길|Jochiwon 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574470|조치원5길|Jochiwon 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574471|조치원6길|Jochiwon 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574471|조치원6길|Jochiwon 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574472|조치원7길|Jochiwon 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574472|조치원7길|Jochiwon 7-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574473|조치원8길|Jochiwon 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574473|조치원8길|Jochiwon 8-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574474|조치원9길|Jochiwon 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574474|조치원9길|Jochiwon 9-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574475|조치원중고길|Jochiwonjunggo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574475|조치원중고길|Jochiwonjunggo-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574476|종성골길|Jongseonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574476|종성골길|Jongseonggol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574477|주막거리길|Jumakgeori-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574477|주막거리길|Jumakgeori-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574478|주막뜸길|Jumaktteum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574478|주막뜸길|Jumaktteum-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574479|죽엽이길|Jugyeobi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574479|죽엽이길|Jugyeobi-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574480|중노장길|Jungnojang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574480|중노장길|Jungnojang-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574481|중대부길|Jungdaebu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574481|중대부길|Jungdaebu-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574482|중뜸길|Jungtteum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574482|중뜸길|Jungtteum-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574483|즘판길|Jeumpan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574483|즘판길|Jeumpan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574484|지곡길|Jigok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574484|지곡길|Jigok-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574485|지심골길|Jisimgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574485|지심골길|Jisimgol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574487|참새골길|Chamsaegol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574487|참새골길|Chamsaegol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574488|청라1길|Cheongna 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574488|청라1길|Cheongna 1-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574489|청라2길|Cheongna 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574489|청라2길|Cheongna 2-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574490|청룡안길|Cheongnyongan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574490|청룡안길|Cheongnyongan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574491|청송서당골길|Cheongsongseodanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574491|청송서당골길|Cheongsongseodanggol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574493|청용길|Cheongyong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574493|청용길|Cheongyong-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574494|초오개길|Choogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574494|초오개길|Choogae-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574495|초정길|Chojeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574495|초정길|Chojeong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574496|축산길|Chuksan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574496|축산길|Chuksan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574497|충령고샅길|Chungnyeonggosat-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574497|충령고샅길|Chungnyeonggosat-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574498|칠불산길|Chilbulsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574498|칠불산길|Chilbulsan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574499|침산1길|Chimsan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574499|침산1길|Chimsan 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574500|침산2길|Chimsan 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574500|침산2길|Chimsan 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574501|침산3길|Chimsan 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574501|침산3길|Chimsan 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574502|침산4길|Chimsan 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574502|침산4길|Chimsan 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574503|침산5길|Chimsan 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574503|침산5길|Chimsan 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574504|침산6길|Chimsan 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574504|침산6길|Chimsan 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574505|침산7길|Chimsan 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574505|침산7길|Chimsan 7-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574506|침산8길|Chimsan 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574506|침산8길|Chimsan 8-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574508|침천길|Chimcheon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574508|침천길|Chimcheon-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574509|큰말1길|Keunmal 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574509|큰말1길|Keunmal 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574510|큰말2길|Keunmal 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574510|큰말2길|Keunmal 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574511|큰말3길|Keunmal 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574511|큰말3길|Keunmal 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574512|큰말길|Keunmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574512|큰말길|Keunmal-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574513|큰샘길|Keunsaem-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574513|큰샘길|Keunsaem-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574514|큰창고개길|Keunchanggogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574514|큰창고개길|Keunchanggogae-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574516|태천1길|Taecheon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574516|태천1길|Taecheon 1-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574517|태천2길|Taecheon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574517|태천2길|Taecheon 2-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574518|터미널안길|Terminalan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574518|터미널안길|Terminalan-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574519|토골고개길|Togolgogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574519|토골고개길|Togolgogae-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574520|평전길|Pyeongjeon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574520|평전길|Pyeongjeon-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574521|평전말길|Pyeongjeonmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574521|평전말길|Pyeongjeonmal-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574523|하나물길|Hanamul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574523|하나물길|Hanamul-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574524|하노장1길|Hanojang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574524|하노장1길|Hanojang 1-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574525|하노장2길|Hanojang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574525|하노장2길|Hanojang 2-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574526|하노장3길|Hanojang 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574526|하노장3길|Hanojang 3-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574527|하노장4길|Hanojang 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574527|하노장4길|Hanojang 4-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574528|하노장5길|Hanojang 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574528|하노장5길|Hanojang 5-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574529|하석곡길|Haseokgok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574529|하석곡길|Haseokgok-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574530|학교말길|Hakgyomal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574530|학교말길|Hakgyomal-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104574531|학당이1길|Hakdangi 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574531|학당이1길|Hakdangi 1-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574532|학당이2길|Hakdangi 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574532|학당이2길|Hakdangi 2-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574534|한양궁길|Hanyanggung-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574534|한양궁길|Hanyanggung-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574535|행골길|Haenggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574535|행골길|Haenggol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574536|행복10길|Haengbok 10-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574536|행복10길|Haengbok 10-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574537|행복11길|Haengbok 11-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574537|행복11길|Haengbok 11-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574538|행복12길|Haengbok 12-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574538|행복12길|Haengbok 12-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574539|행복13길|Haengbok 13-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574539|행복13길|Haengbok 13-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574540|행복1길|Haengbok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574540|행복1길|Haengbok 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574541|행복2길|Haengbok 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574541|행복2길|Haengbok 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574542|행복3길|Haengbok 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574542|행복3길|Haengbok 3-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574543|행복4길|Haengbok 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574543|행복4길|Haengbok 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574544|행복5길|Haengbok 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574544|행복5길|Haengbok 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574545|행복6길|Haengbok 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574545|행복6길|Haengbok 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574546|행복7길|Haengbok 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574546|행복7길|Haengbok 7-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574547|행복8길|Haengbok 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574547|행복8길|Haengbok 8-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574548|행복9길|Haengbok 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574548|행복9길|Haengbok 9-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574549|행복길|Haengbok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574549|행복길|Haengbok-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574551|헌터길|Heonteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574551|헌터길|Heonteo-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574552|호병골길|Hobyeonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574552|호병골길|Hobyeonggol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574553|호탄길|Hotan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574553|호탄길|Hotan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574554|홍익길|Hongik-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574554|홍익길|Hongik-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574555|홍축골길|Hongchukgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574555|홍축골길|Hongchukgol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574556|황새울골길|Hwangsaeulgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574556|황새울골길|Hwangsaeulgol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574559|황우재길|Hwangujae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574559|황우재길|Hwangujae-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574560|효교동길|Hyogyodong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574560|효교동길|Hyogyodong-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574561|효자길|Hyoja-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574561|효자길|Hyoja-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574562|내송길|Naesong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574562|내송길|Naesong-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104574563|닭재길|Dakjae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574563|닭재길|Dakjae-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574564|대박안길|Daebagan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574564|대박안길|Daebagan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574565|돌마루2길|Dolmaru 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574565|돌마루2길|Dolmaru 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104574566|방앗골길|Bangatgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574566|방앗골길|Bangatgol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104574567|불곡1길|Bulgok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574567|불곡1길|Bulgok 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574568|불곡길|Bulgok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574568|불곡길|Bulgok-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574569|상소골길|Sangsogol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574569|상소골길|Sangsogol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574570|새내19길|Saenae 19-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574571|새내20길|Saenae 20-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574572|오얏골길|Oyatgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574572|오얏골길|Oyatgol-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574573|용암길|Yongam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574573|용암길|Yongam-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574574|용암우줄길|Yongamujul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574574|용암우줄길|Yongamujul-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574577|침산냇가길|Chimsannaetga-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574578|하소골길|Hasogol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574578|하소골길|Hasogol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574579|부동산수골길|Budongsansugol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574579|부동산수골길|Budongsansugol-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104574582|황용1길|Hwangyong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574582|황용1길|Hwangyong 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574583|황용2길|Hwangyong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574583|황용2길|Hwangyong 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574584|원부용길|Wonbuyong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574584|원부용길|Wonbuyong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574585|깊은내길|Gipeunnae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574585|깊은내길|Gipeunnae-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574586|깊은내1길|Gipeunnae 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574586|깊은내1길|Gipeunnae 1-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574587|보평길|Bopyeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574587|보평길|Bopyeong-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574588|보평윗말길|Bopyeongwinmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574588|보평윗말길|Bopyeongwinmal-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104574589|강당길|Gangdang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574589|강당길|Gangdang-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574590|갱정말길|Gaengjeongmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574590|갱정말길|Gaengjeongmal-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574591|고성길|Goseong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574591|고성길|Goseong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574593|구레길|Gure-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574593|구레길|Gure-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574594|구석뜸길|Guseoktteum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574594|구석뜸길|Guseoktteum-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574595|국곡길|Gukgok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574595|국곡길|Gukgok-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574596|국실길|Guksil-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574596|국실길|Guksil-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574597|금암길|Geumam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574597|금암길|Geumam-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574598|꼭두네길|Kkokdune-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574598|꼭두네길|Kkokdune-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574599|나무쟁이길|Namujaengi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574599|나무쟁이길|Namujaengi-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574600|남산길|Namsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574600|남산길|Namsan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574601|당암길|Dangam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574601|당암길|Dangam-gil|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361104574601|당암길|Dangam-gil|02|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574602|대교길|Daegyo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574602|대교길|Daegyo-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574602|대교길|Daegyo-gil|02|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104574603|대교뒷골길|Daegyodwitgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574603|대교뒷골길|Daegyodwitgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574604|대교아랫말길|Daegyoaraenmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574604|대교아랫말길|Daegyoaraenmal-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574605|대교양달뜸길|Daegyoyangdaltteum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574605|대교양달뜸길|Daegyoyangdaltteum-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574606|대교절골길|Daegyojeolgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574606|대교절골길|Daegyojeolgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574607|대학길|Daehak-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574607|대학길|Daehak-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574608|덕고개길|Deokgogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574608|덕고개길|Deokgogae-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574609|도남1길|Donam 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574609|도남1길|Donam 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574610|도남2길|Donam 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574610|도남2길|Donam 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574611|들말양지길|Deulmaryangji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574611|들말양지길|Deulmaryangji-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574612|띠실신산길|Ttisilsinsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574612|띠실신산길|Ttisilsinsan-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574613|몸티길|Momti-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574613|몸티길|Momti-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574614|무넘이길|Muneomi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574614|무넘이길|Muneomi-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574615|문성1길|Munseong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574615|문성1길|Munseong 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574616|문성2길|Munseong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574616|문성2길|Munseong 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574617|바탕골길|Batanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574617|바탕골길|Batanggol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574618|바탕길|Batang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574618|바탕길|Batang-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574619|밤실길|Bamsil-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574619|밤실길|Bamsil-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574620|방돌길|Bangdol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574620|방돌길|Bangdol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574621|버덕골길|Beodeokgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574621|버덕골길|Beodeokgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574622|벌말길|Beolmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574622|벌말길|Beolmal-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574623|범허리길|Beomheori-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574623|범허리길|Beomheori-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574624|별신당길|Byeolsindang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574624|별신당길|Byeolsindang-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574625|병풍정길|Byeongpungjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574625|병풍정길|Byeongpungjeong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574626|봉안고개길|Bongangogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574626|봉안고개길|Bongangogae-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574627|봉안길|Bongan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574627|봉안길|Bongan-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574628|봉안산소골길|Bongansansogol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574628|봉안산소골길|Bongansansogol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574629|비학실길|Bihaksil-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574629|비학실길|Bihaksil-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574630|사덕골길|Sadeokgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574630|사덕골길|Sadeokgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574631|사아수길|Saasu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574631|사아수길|Saasu-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574632|산림박물관길|Sallimbangmulgwan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574632|산림박물관길|Sallimbangmulgwan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574633|산학리길|Sanhangni-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574633|산학리길|Sanhangni-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574634|샘골길|Saemgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574634|샘골길|Saemgol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574635|성강길|Seonggang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574635|성강길|Seonggang-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574636|성덕동길|Seongdeokdong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574636|성덕동길|Seongdeokdong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574637|소롱골길|Soronggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574637|소롱골길|Soronggol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574638|소미길|Somi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574638|소미길|Somi-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574639|솔번들길|Solbeondeul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574639|솔번들길|Solbeondeul-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574640|송문1길|Songmun 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574640|송문1길|Songmun 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574641|송문2길|Songmun 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574641|송문2길|Songmun 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574642|송문성재길|Songmunseongjae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574642|송문성재길|Songmunseongjae-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574643|송문송정길|Songmunsongjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574643|송문송정길|Songmunsongjeong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574644|송정골길|Songjeonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574644|송정골길|Songjeonggol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574645|안기강산길|Angigangsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574645|안기강산길|Angigangsan-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574646|안동네길|Andongne-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574646|안동네길|Andongne-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574647|약수사길|Yaksusa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574647|약수사길|Yaksusa-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574648|열녀리길|Yeollyeori-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574648|열녀리길|Yeollyeori-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574649|영평사길|Yeongpyeongsa-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574649|영평사길|Yeongpyeongsa-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574650|외숫골길|Oesutgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574650|외숫골길|Oesutgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574651|외암길|Oeam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574651|외암길|Oeam-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574652|용암평촌길|Yongampyeongchon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574652|용암평촌길|Yongampyeongchon-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574653|용현길|Yonghyeon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574653|용현길|Yonghyeon-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574654|원봉1길|Wonbong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574654|원봉1길|Wonbong 1-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104574654|원봉1길|Wonbong 1-gil|02|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574655|원봉2길|Wonbong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574655|원봉2길|Wonbong 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574656|원봉새말길|Wonbongsaemal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574656|원봉새말길|Wonbongsaemal-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574657|원봉안길|Wonbongan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574657|원봉안길|Wonbongan-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574658|원봉오룡길|Wonbongoryong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574658|원봉오룡길|Wonbongoryong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574659|월현윗길|Wolhyeonwit-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574659|월현윗길|Wolhyeonwit-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574660|은용1길|Eunyong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574660|은용1길|Eunyong 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574661|은용2길|Eunyong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574661|은용2길|Eunyong 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574662|은용양지말길|Eunyongyangjimal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574662|은용양지말길|Eunyongyangjimal-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574663|의당방축골길|Uidangbangchukgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574663|의당방축골길|Uidangbangchukgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574664|장기초교길|Janggichogyo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574664|장기초교길|Janggichogyo-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574665|재지골길|Jaejigol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574665|재지골길|Jaejigol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574666|전원마을1길|Jeonwonmaeul 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574666|전원마을1길|Jeonwonmaeul 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574667|전원마을2길|Jeonwonmaeul 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574667|전원마을2길|Jeonwonmaeul 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574668|정계길|Jeonggye-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574668|정계길|Jeonggye-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574669|정동길|Jeongdong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574669|정동길|Jeongdong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574670|정자말길|Jeongjamal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574670|정자말길|Jeongjamal-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574671|주곡길|Jugok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574671|주곡길|Jugok-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574672|주를길|Jureul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574672|주를길|Jureul-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574673|즘게말길|Jeumgemal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574673|즘게말길|Jeumgemal-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574674|지춘이길|Jichuni-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574674|지춘이길|Jichuni-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574675|진동길|Jindong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574675|진동길|Jindong-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574677|참시렁골길|Chamsireonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574677|참시렁골길|Chamsireonggol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574678|채나무길|Chaenamu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574678|채나무길|Chaenamu-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574679|초당바위길|Chodangbawi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574679|초당바위길|Chodangbawi-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574680|큰냇길|Keunnaet-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574680|큰냇길|Keunnaet-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574681|큰절골길|Keunjeolgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574681|큰절골길|Keunjeolgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574682|탁금정길|Takgeumjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574682|탁금정길|Takgeumjeong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574683|토골길|Togol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574683|토골길|Togol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574684|평기길|Pyeonggi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574684|평기길|Pyeonggi-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574685|평기산양길|Pyeonggisanyang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574685|평기산양길|Pyeonggisanyang-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574686|평기큰골길|Pyeonggikeungol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574686|평기큰골길|Pyeonggikeungol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574687|평장골길|Pyeongjanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574687|평장골길|Pyeongjanggol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574688|풍덕골길|Pungdeokgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574688|풍덕골길|Pungdeokgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574689|하봉길|Habong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574689|하봉길|Habong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574690|하산길|Hasan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574690|하산길|Hasan-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574691|하주막골길|Hajumakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574691|하주막골길|Hajumakgol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574692|할미터길|Halmiteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574692|할미터길|Halmiteo-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574693|행정길|Haengjeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574693|행정길|Haengjeong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574695|황미창말길|Hwangmichangmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574695|황미창말길|Hwangmichangmal-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574696|황토고개길|Hwangtogogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574696|황토고개길|Hwangtogogae-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104574697|회동1길|Hoedong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574697|회동1길|Hoedong 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574698|회동2길|Hoedong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574698|회동2길|Hoedong 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104574699|갈산1길|Galsan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574699|갈산1길|Galsan 1-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574700|갈산길|Galsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574700|갈산길|Galsan-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574701|갈산웃골길|Galsanutgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574701|갈산웃골길|Galsanutgol-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574702|구들기길|Gudeulgi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574702|구들기길|Gudeulgi-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574703|금호검시길|Geumhogeomsi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574703|금호검시길|Geumhogeomsi-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574704|금호선말길|Geumhoseonmal-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574704|금호선말길|Geumhoseonmal-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574705|금호안골길|Geumhoangol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574705|금호안골길|Geumhoangol-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574706|금호황성골길|Geumhohwangseonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574706|금호황성골길|Geumhohwangseonggol-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574707|남성골길|Namseonggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574707|남성골길|Namseonggol-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574708|노호길|Noho-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574708|노호길|Noho-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574709|등곡1길|Deunggok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574709|등곡1길|Deunggok 1-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574710|등곡길|Deunggok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574710|등곡길|Deunggok-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574711|문곡달미길|Mungokdalmi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574711|문곡달미길|Mungokdalmi-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574712|문곡대국터길|Mungokdaegukteo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574712|문곡대국터길|Mungokdaegukteo-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574713|문곡새뜸길|Mungoksaetteum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574713|문곡새뜸길|Mungoksaetteum-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574714|문곡자창이길|Mungokjachangi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574714|문곡자창이길|Mungokjachangi-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574715|부강1길|Bugang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574715|부강1길|Bugang 1-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574716|부강2길|Bugang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574716|부강2길|Bugang 2-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574717|부강3길|Bugang 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574717|부강3길|Bugang 3-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574718|부강4길|Bugang 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574718|부강4길|Bugang 4-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574719|부강5길|Bugang 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574719|부강5길|Bugang 5-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574720|부강신대길|Bugangsindae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574720|부강신대길|Bugangsindae-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574721|부촌길|Buchon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574721|부촌길|Buchon-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574722|산수1길|Sansu 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574722|산수1길|Sansu 1-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574723|산수2길|Sansu 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574723|산수2길|Sansu 2-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574724|산수길|Sansu-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574724|산수길|Sansu-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574725|시장1길|Sijang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574725|시장1길|Sijang 1-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574726|시장길|Sijang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574726|시장길|Sijang-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574727|오대길|Odae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574727|오대길|Odae-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574728|용포동촌길|Yongpodongchon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574728|용포동촌길|Yongpodongchon-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574729|태산길|Taesan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574729|태산길|Taesan-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574730|행산길|Haengsan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574730|행산길|Haengsan-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574731|행산웃골길|Haengsanutgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574731|행산웃골길|Haengsanutgol-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104574735|어울로1길|Eoul-ro 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574735|어울로1길|Eoul-ro 1-gil|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361104574736|어울로2길|Eoul-ro 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574736|어울로2길|Eoul-ro 2-gil|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361104574737|어울로3길|Eoul-ro 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574737|어울로3길|Eoul-ro 3-gil|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361104574738|어울로4길|Eoul-ro 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574738|어울로4길|Eoul-ro 4-gil|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361104574741|만남로4길|Mannam-ro 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574741|만남로4길|Mannam-ro 4-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104574743|만남로5길|Mannam-ro 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574744|만남로6길|Mannam-ro 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574744|만남로6길|Mannam-ro 6-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104574745|만남로8길|Mannam-ro 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574745|만남로8길|Mannam-ro 8-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104574746|만남로1길|Mannam-ro 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574746|만남로1길|Mannam-ro 1-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104574747|만남로3길|Mannam-ro 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574747|만남로3길|Mannam-ro 3-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104574748|방축1길|Bangchuk 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574748|방축1길|Bangchuk 1-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104574749|방축2길|Bangchuk 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574749|방축2길|Bangchuk 2-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104574750|바른1길|Bareun 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574750|바른1길|Bareun 1-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104574751|바른2길|Bareun 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574751|바른2길|Bareun 2-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104574752|바른3길|Bareun 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574752|바른3길|Bareun 3-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104574759|바른4길|Bareun 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574759|바른4길|Bareun 4-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104574760|바른5길|Bareun 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574760|바른5길|Bareun 5-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104574761|바른6길|Bareun 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574761|바른6길|Bareun 6-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104574762|바른7길|Bareun 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574762|바른7길|Bareun 7-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104574763|바른8길|Bareun 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104574763|바른8길|Bareun 8-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104705344|만남로2길|Mannam-ro 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104705344|만남로2길|Mannam-ro 2-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104851563|범지기길|Beomjigi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104851563|범지기길|Beomjigi-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104851563|범지기길|Beomjigi-gil|02|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104852245|도담길|Dodam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104852245|도담길|Dodam-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104852246|도담1길|Dodam 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104852246|도담1길|Dodam 1-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104852246|도담1길|Dodam 1-gil|02|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104852319|송곡1길|Songgok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104852319|송곡1길|Songgok 1-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104853132|청운가길|Cheongunga-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853132|청운가길|Cheongunga-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104853186|집현1길|Jiphyeon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853187|집현2길|Jiphyeon 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853188|반곡1길|Bangok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853188|반곡1길|Bangok 1-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104853189|반곡2길|Bangok 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853189|반곡2길|Bangok 2-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104853190|반곡3길|Bangok 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853190|반곡3길|Bangok 3-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104853191|대평1길|Daepyeong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853191|대평1길|Daepyeong 1-gil|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361104853192|대평2길|Daepyeong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853193|대평3길|Daepyeong 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853193|대평3길|Daepyeong 3-gil|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361104853194|다정1길|Dajeong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853194|다정1길|Dajeong 1-gil|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361104853195|다정2길|Dajeong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853196|다정3길|Dajeong 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853197|다정4길|Dajeong 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853197|다정4길|Dajeong 4-gil|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361104853198|다정5길|Dajeong 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853198|다정5길|Dajeong 5-gil|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361104853199|다정6길|Dajeong 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853200|밀마루길|Milmaru-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853200|밀마루길|Milmaru-gil|01|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361104853201|고운서1길|Gounseo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853201|고운서1길|Gounseo 1-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853202|고운서2길|Gounseo 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853202|고운서2길|Gounseo 2-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853203|고운서3길|Gounseo 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853203|고운서3길|Gounseo 3-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853204|고운서4길|Gounseo 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853204|고운서4길|Gounseo 4-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853205|고운북1길|Gounbuk 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853205|고운북1길|Gounbuk 1-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853206|고운북2길|Gounbuk 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853206|고운북2길|Gounbuk 2-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853207|고운북3길|Gounbuk 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853207|고운북3길|Gounbuk 3-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853208|고운북4길|Gounbuk 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853208|고운북4길|Gounbuk 4-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853209|고운북6길|Gounbuk 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853209|고운북6길|Gounbuk 6-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853210|고운북7길|Gounbuk 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853210|고운북7길|Gounbuk 7-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853211|고운북8길|Gounbuk 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853211|고운북8길|Gounbuk 8-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853212|고운북9길|Gounbuk 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853212|고운북9길|Gounbuk 9-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853213|고운북10길|Gounbuk 10-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853213|고운북10길|Gounbuk 10-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853214|아름서1길|Areumseo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853214|아름서1길|Areumseo 1-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104853215|아름남길|Areumnam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853215|아름남길|Areumnam-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104853220|어진남길|Eojinnam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853221|도담서길|Dodamseo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853221|도담서길|Dodamseo-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104853222|도담서1길|Dodamseo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853222|도담서1길|Dodamseo 1-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104853223|도담서2길|Dodamseo 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853223|도담서2길|Dodamseo 2-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104853224|도담서3길|Dodamseo 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853224|도담서3길|Dodamseo 3-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104853225|도담서4길|Dodamseo 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853225|도담서4길|Dodamseo 4-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104853226|아름남2길|Areumnam 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853307|해누리길|Haenuri-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853307|해누리길|Haenuri-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104853308|해누리1길|Haenuri 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853308|해누리1길|Haenuri 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104853331|고운북5길|Gounbuk 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853344|아름남1길|Areumnam 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853344|아름남1길|Areumnam 1-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104853345|쌍류예술촌길|Ssangnyuyesulchon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853345|쌍류예술촌길|Ssangnyuyesulchon-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104853365|반곡남길|Bangongnam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853366|아름서길|Areumseo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853366|아름서길|Areumseo-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104853376|합강황금길|Hapganghwanggeum-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853376|합강황금길|Hapganghwanggeum-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104853377|합강황금1길|Hapganghwanggeum 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853377|합강황금1길|Hapganghwanggeum 1-gil|01|세종특별자치시|Sejong-si|||연동면|Yeondong-myeon|0|320|0||||
+361104853473|고등삼기1길|Godeungsamgi 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853473|고등삼기1길|Godeungsamgi 1-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104853496|고운서길|Gounseo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853496|고운서길|Gounseo-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104853672|산수3길|Sansu 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853672|산수3길|Sansu 3-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104853706|아름남3길|Areumnam 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853706|아름남3길|Areumnam 3-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104853707|아름남4길|Areumnam 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853707|아름남4길|Areumnam 4-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104853711|풍경채길|Punggyeongchae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853711|풍경채길|Punggyeongchae-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104853781|영곡양지길|Yeonggogyangji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853781|영곡양지길|Yeonggogyangji-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104853921|도담서5길|Dodamseo 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104853921|도담서5길|Dodamseo 5-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104853921|도담서5길|Dodamseo 5-gil|02|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104854086|파인빌리지길|Pine village-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854086|파인빌리지길|Pine village-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104854216|다정7길|Dajeong 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854217|다정8길|Dajeong 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854217|다정8길|Dajeong 8-gil|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361104854218|다정9길|Dajeong 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854218|다정9길|Dajeong 9-gil|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361104854219|영곡양지1길|Yeonggogyangji 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854226|한솔1길|Hansol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854226|한솔1길|Hansol 1-gil|01|세종특별자치시|Sejong-si|||한솔동|Hansol-dong|1|106|0||||
+361104854227|한솔2길|Hansol 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854784|고등성재길|Godeungseongjae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854784|고등성재길|Godeungseongjae-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104854818|하봉황골길|Habonghwanggol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854818|하봉황골길|Habonghwanggol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104854830|하봉금수동길|Habonggeumsudong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104854830|하봉금수동길|Habonggeumsudong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104855105|보람3길|Boram 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855106|보람2길|Boram 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855107|시청남길|Sicheongnam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855108|대평4길|Daepyeong 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855108|대평4길|Daepyeong 4-gil|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361104855109|호수공원길|Hosugongwon-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855109|호수공원길|Hosugongwon-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104855110|고운뜰1길|Gountteul 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855113|고운뜰8길|Gountteul 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855117|고운뜰2길|Gountteul 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855132|고운뜰3길|Gountteul 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855133|고운뜰4길|Gountteul 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855134|고운뜰5길|Gountteul 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855135|고운뜰6길|Gountteul 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855136|고운뜰7길|Gountteul 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855136|고운뜰7길|Gountteul 7-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104855141|보람1길|Boram 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855141|보람1길|Boram 1-gil|01|세종특별자치시|Sejong-si|||보람동|Boram-dong|1|103|0||||
+361104855337|문암길|Munam-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855337|문암길|Munam-gil|01|세종특별자치시|Sejong-si|||연기면|Yeongi-myeon|0|310|0||||
+361104855338|산봉길|Sanbong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855338|산봉길|Sanbong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104855339|원앙2길|Wonang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855340|원앙1길|Wonang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855340|원앙1길|Wonang 1-gil|01|세종특별자치시|Sejong-si|||부강면|Bugang-myeon|0|330|0||||
+361104855627|다정남3로|Dajeongnam 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855627|다정남3로|Dajeongnam 3-ro|01|세종특별자치시|Sejong-si|||다정동|Dajeong-dong|1|109|0||||
+361104855628|다정남2로|Dajeongnam 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855629|다정남1로|Dajeongnam 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855630|종합운동장3로|Jonghabundongjang 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855631|종합운동장2로|Jonghabundongjang 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855632|종합운동장1로|Jonghabundongjang 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855632|종합운동장1로|Jonghabundongjang 1-ro|01|세종특별자치시|Sejong-si|||대평동|Daepyeong-dong|1|104|0||||
+361104855992|고운북11길|Gounbuk 11-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855992|고운북11길|Gounbuk 11-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104855993|바른6안길|Bareun 6an-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855993|바른6안길|Bareun 6an-gil|01|세종특별자치시|Sejong-si|||아름동|Areum-dong|1|113|0||||
+361104855994|법원1로|Beobwon 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855995|법원2로|Beobwon 2-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855995|법원2로|Beobwon 2-ro|01|세종특별자치시|Sejong-si|||소담동|Sodam-dong|1|102|0||||
+361104855996|법원3로|Beobwon 3-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104855997|법원4로|Beobwon 4-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856064|고운길|Goun-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856065|국사봉길|Guksabong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856065|국사봉길|Guksabong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856611|운당1길|Undang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856611|운당1길|Undang 1-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856612|운당2길|Undang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856612|운당2길|Undang 2-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856613|운당3길|Undang 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856613|운당3길|Undang 3-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856614|운당4길|Undang 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856614|운당4길|Undang 4-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856615|운당5길|Undang 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856615|운당5길|Undang 5-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856616|운당6길|Undang 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856616|운당6길|Undang 6-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856617|운당7길|Undang 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856617|운당7길|Undang 7-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856618|운당8길|Undang 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856618|운당8길|Undang 8-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856619|운당9길|Undang 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856619|운당9길|Undang 9-gil|01|세종특별자치시|Sejong-si|||소정면|Sojeong-myeon|0|390|0||||
+361104856620|금당2길|Geumdang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856620|금당2길|Geumdang 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856621|금당4길|Geumdang 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856621|금당4길|Geumdang 4-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856622|금당5길|Geumdang 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856622|금당5길|Geumdang 5-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856623|금당6길|Geumdang 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856623|금당6길|Geumdang 6-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856624|금당8길|Geumdang 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856624|금당8길|Geumdang 8-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856625|금당10길|Geumdang 10-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856625|금당10길|Geumdang 10-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856626|금당11길|Geumdang 11-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856626|금당11길|Geumdang 11-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856627|금당13길|Geumdang 13-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856627|금당13길|Geumdang 13-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856628|금당15길|Geumdang 15-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856628|금당15길|Geumdang 15-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856629|금당17길|Geumdang 17-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856629|금당17길|Geumdang 17-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856630|금당19길|Geumdang 19-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856630|금당19길|Geumdang 19-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856631|금당21길|Geumdang 21-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856631|금당21길|Geumdang 21-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856634|행복마을1길|Haengbongmaeul 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856634|행복마을1길|Haengbongmaeul 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856635|행복마을2길|Haengbongmaeul 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856635|행복마을2길|Haengbongmaeul 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856636|행복마을3길|Haengbongmaeul 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856636|행복마을3길|Haengbongmaeul 3-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856637|행복마을5길|Haengbongmaeul 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856637|행복마을5길|Haengbongmaeul 5-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856638|행복마을6길|Haengbongmaeul 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856639|행복마을7길|Haengbongmaeul 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856639|행복마을7길|Haengbongmaeul 7-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856640|행복마을8길|Haengbongmaeul 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856640|행복마을8길|Haengbongmaeul 8-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856641|행복마을9길|Haengbongmaeul 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856642|행복마을10길|Haengbongmaeul 10-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856642|행복마을10길|Haengbongmaeul 10-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856643|행복마을11길|Haengbongmaeul 11-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856644|행복마을12길|Haengbongmaeul 12-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856644|행복마을12길|Haengbongmaeul 12-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856645|행복마을14길|Haengbongmaeul 14-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856645|행복마을14길|Haengbongmaeul 14-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856646|해솔길|Haesol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856646|해솔길|Haesol-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104856891|반곡남1길|Bangongnam 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856892|반곡남2길|Bangongnam 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856893|반곡남3길|Bangongnam 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856894|반곡남4길|Bangongnam 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856895|반곡남5길|Bangongnam 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856896|집현3길|Jiphyeon 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856897|집현5길|Jiphyeon 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856898|집현4길|Jiphyeon 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856899|집현6길|Jiphyeon 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856953|양지길|Yangji-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104856953|양지길|Yangji-gil|01|세종특별자치시|Sejong-si|||도담동|Dodam-dong|1|114|0||||
+361104857151|반곡남6길|Bangongnam 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857422|갑박골길|Gapbakgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857422|갑박골길|Gapbakgol-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104857721|은행나무3길|Eunhaengnamu 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857722|금당9길|Geumdang 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857722|금당9길|Geumdang 9-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857723|금당7길|Geumdang 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857723|금당7길|Geumdang 7-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857724|은행나무1길|Eunhaengnamu 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857724|은행나무1길|Eunhaengnamu 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104857725|다막골3길|Damakgol 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857726|은행나무2길|Eunhaengnamu 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857726|은행나무2길|Eunhaengnamu 2-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104857727|뒤골2길|Dwigol 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857728|도장말3길|Dojangmal 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857729|허만석1로|Heomanseok 1-ro|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857729|허만석1로|Heomanseok 1-ro|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104857730|뒤골1길|Dwigol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857731|도장말1길|Dojangmal 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857732|평안1길|Pyeongan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857733|금당3길|Geumdang 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857733|금당3길|Geumdang 3-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857767|도장말2길|Dojangmal 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857840|도남2안길|Donam 2an-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857840|도남2안길|Donam 2an-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104857853|풍경1길|Punggyeong 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857854|풍경2길|Punggyeong 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857854|풍경2길|Punggyeong 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857855|풍경3길|Punggyeong 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857855|풍경3길|Punggyeong 3-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857856|풍경5길|Punggyeong 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857856|풍경5길|Punggyeong 5-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857857|풍경4길|Punggyeong 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857857|풍경4길|Punggyeong 4-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857867|풍경길|Punggyeong-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857867|풍경길|Punggyeong-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104857873|샘너머3길|Saemneomeo 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857873|샘너머3길|Saemneomeo 3-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104857881|지루고개길|Jirugogae-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857881|지루고개길|Jirugogae-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104857883|울여울길|Uryeoul-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857883|울여울길|Uryeoul-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104857884|고운마을3길|Gounmaeul 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857884|고운마을3길|Gounmaeul 3-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857885|고운마을4길|Gounmaeul 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857885|고운마을4길|Gounmaeul 4-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857886|고운마을5길|Gounmaeul 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857886|고운마을5길|Gounmaeul 5-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857887|고운마을6길|Gounmaeul 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857887|고운마을6길|Gounmaeul 6-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857889|서당미길|Seodangmi-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857889|서당미길|Seodangmi-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104857890|개안2길|Gaean 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857890|개안2길|Gaean 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104857891|개안1길|Gaean 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857891|개안1길|Gaean 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104857892|고운한옥2길|Gounhanok 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857892|고운한옥2길|Gounhanok 2-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857893|고운한옥5길|Gounhanok 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857894|고운한옥1길|Gounhanok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857894|고운한옥1길|Gounhanok 1-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857895|고운한옥3길|Gounhanok 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857895|고운한옥3길|Gounhanok 3-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857896|고운한옥4길|Gounhanok 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857896|고운한옥4길|Gounhanok 4-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104857900|달전밤절길|Daljeonbamjeol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104857900|달전밤절길|Daljeonbamjeol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104858057|큰말4길|Keunmal 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858058|큰말5길|Keunmal 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858060|큰샘1길|Keunsaem 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858061|큰샘2길|Keunsaem 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858062|신흥샛터5길|Sinheungsaetteo 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858063|신흥고샅2길|Sinheunggosat 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858064|침산9길|Chimsan 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858064|침산9길|Chimsan 9-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104858065|용포중앙3길|Yongpojungang 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858066|대평시장3길|Daepyeongsijang 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858067|샘너머1길|Saemneomeo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858068|원당1길|Wondang 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858068|원당1길|Wondang 1-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104858069|원당2길|Wondang 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858069|원당2길|Wondang 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104858070|원당4길|Wondang 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858070|원당4길|Wondang 4-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104858071|자월길|Jawol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858071|자월길|Jawol-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104858072|새울1길|Saeul 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858073|새울2길|Saeul 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858073|새울2길|Saeul 2-gil|01|세종특별자치시|Sejong-si|||전의면|Jeonui-myeon|0|370|0||||
+361104858074|밀마루1길|Milmaru 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858074|밀마루1길|Milmaru 1-gil|01|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361104858075|밀마루2길|Milmaru 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858075|밀마루2길|Milmaru 2-gil|01|세종특별자치시|Sejong-si|||어진동|Eojin-dong|1|110|0||||
+361104858076|반곡6길|Bangok 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858076|반곡6길|Bangok 6-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104858077|반곡4길|Bangok 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858078|반곡5길|Bangok 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858078|반곡5길|Bangok 5-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104858079|반곡7길|Bangok 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858080|반곡8길|Bangok 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858080|반곡8길|Bangok 8-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104858081|반곡9길|Bangok 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858081|반곡9길|Bangok 9-gil|01|세종특별자치시|Sejong-si|||반곡동|Bangok-dong|1|101|0||||
+361104858082|반곡10길|Bangok 10-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858083|해밀숲1길|Haemilsup 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858084|해밀숲2길|Haemilsup 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858241|큰말6길|Keunmal 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858241|큰말6길|Keunmal 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104858258|샘너머2길|Saemneomeo 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858258|샘너머2길|Saemneomeo 2-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104858259|원당길|Wondang-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858259|원당길|Wondang-gil|01|세종특별자치시|Sejong-si|||금남면|Geumnam-myeon|0|340|0||||
+361104858547|충현1길|Chunghyeon 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858547|충현1길|Chunghyeon 1-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104858548|산막6길|Sanmak 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858549|모과나무4길|Mogwanamu 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858549|모과나무4길|Mogwanamu 4-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104858550|모과나무5길|Mogwanamu 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858550|모과나무5길|Mogwanamu 5-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104858551|모과나무6길|Mogwanamu 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858551|모과나무6길|Mogwanamu 6-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104858552|내창4길|Naechang 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858553|내창5길|Naechang 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858554|부강6길|Bugang 6-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858555|부강8길|Bugang 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858556|부강9길|Bugang 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858557|오대1길|Odae 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858558|오대2길|Odae 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858559|오대3길|Odae 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858560|한울1길|Hanul 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858561|한울2길|Hanul 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858562|한울3길|Hanul 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858563|대교이웃2길|Daegyoiut 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858564|대교이웃1길|Daegyoiut 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858565|대교햇빛길|Daegyohaetbit-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858566|대교해솔1길|Daegyohaesol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858566|대교해솔1길|Daegyohaesol 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104858567|대교해솔2길|Daegyohaesol 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858567|대교해솔2길|Daegyohaesol 2-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104858568|대교해솔3길|Daegyohaesol 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858569|대교해솔4길|Daegyohaesol 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858570|대교해솔5길|Daegyohaesol 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858571|의넘어1길|Uineomeo 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858572|의넘어2길|Uineomeo 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858573|의넘어3길|Uineomeo 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858574|의넘어4길|Uineomeo 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858575|의넘어5길|Uineomeo 5-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858576|산단언덕1길|Sandaneondeok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858577|산단언덕2길|Sandaneondeok 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858578|고운별빛길|Gounbyeolbit-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858578|고운별빛길|Gounbyeolbit-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104858579|고운마을7길|Gounmaeul 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858579|고운마을7길|Gounmaeul 7-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104858580|고운마을8길|Gounmaeul 8-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858580|고운마을8길|Gounmaeul 8-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104858581|고운마을9길|Gounmaeul 9-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858581|고운마을9길|Gounmaeul 9-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104858792|모과나무7길|Mogwanamu 7-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104858792|모과나무7길|Mogwanamu 7-gil|01|세종특별자치시|Sejong-si|||조치원읍|Jochiwon-eup|0|250|0||||
+361104859117|두옥길|Duok-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859117|두옥길|Duok-gil|01|세종특별자치시|Sejong-si|||연서면|Yeonseo-myeon|0|360|0||||
+361104859666|오천자전거길|Ocheonjajeongeo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859667|금강자전거길|Geumgangjajeongeo-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859696|북촌3길|Bukchon 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859697|북촌4길|Bukchon 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859698|능골1길|Neunggol 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859699|하석곡1길|Haseokgok 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859700|보평들1길|Bopyeongdeul 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859701|보평들2길|Bopyeongdeul 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859701|보평들2길|Bopyeongdeul 2-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104859702|보평들4길|Bopyeongdeul 4-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859703|태산1길|Taesan 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859703|태산1길|Taesan 1-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||||
+361104859704|태산2길|Taesan 2-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859705|고운주택1길|Gounjutaek 1-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859705|고운주택1길|Gounjutaek 1-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104859706|고운북12길|Gounbuk 12-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859706|고운북12길|Gounbuk 12-gil|01|세종특별자치시|Sejong-si|||고운동|Goun-dong|1|112|0||||
+361104859707|고운북13길|Gounbuk 13-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859708|고운서안길|Gounseoan-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859970|보평들3길|Bopyeongdeul 3-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859970|보평들3길|Bopyeongdeul 3-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||
+361104859981|덜골길|Deolgol-gil|00|세종특별자치시|Sejong-si|||||2||0||||
+361104859981|덜골길|Deolgol-gil|01|세종특별자치시|Sejong-si|||전동면|Jeondong-myeon|0|380|0||||

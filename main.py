@@ -1,16 +1,40 @@
-# This is a sample Python script.
+import psycopg2
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+# db 연결
+connection = psycopg2.connect(host="172.30.6.41", dbname="geoproject", user="postgres", password="all4land", port=5432)
+
+cur = connection.cursor()
+# 커서에 객체가 있다면 연결성공
+if cur != None:
+    print("연결성공")
+
+f = open(r'C:UsersnDesktopdata.csv', 'r')
+cur.copy_from(f, temp_unicommerce_status, sep=',')
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#
+# # insert
+# def insertDB(schema, table,data):
+#     sql = " INSERT INTO {schema}.{table} VALUES ({data}) ;".format(schema=schema, table=table,
+#                                                                                data=data)
+#     try:
+#         cur.execute(sql)
+#         connection.commit()
+#     except Exception as e:
+#         print(" insert DB err ", e)
+# # read  ( select 결과를 리턴)
+# def readDB(schema, table):
+#     sql = " SELECT * from {schema}.{table}".format(schema=schema, table=table)
+#     try:
+#         cur.execute(sql)
+#         result = cur.fetchall()
+#     except Exception as e:
+#         result = (" read DB err", e)
+#
+#     return result
+# insertDB("lsn","road_code","'4','2','3','7','5','6','7','8','9','0','1','2','3','4','5','6','7'")
+# print(readDB("lsn","road_code"),end=" ")
+#
+# cur.close()
+# connection.close()
+#
