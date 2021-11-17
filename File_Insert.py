@@ -38,3 +38,35 @@ else:
 finally:
     cur.close()
     connection.close()
+    
+## V2
+from psycopg2 import connect
+
+# postgresql 접속
+conn = connect(host='172.30.6.41',
+
+               port=5432,
+
+               database='geoproject',
+
+               user='postgres',
+
+               password='all4land')
+
+# query를 실행하기 위해 connect에 있는 cursor()를 선언
+cur = conn.cursor()
+
+# query 변수에는 postgresql에서 txt파일로 데이터를 넣을 때 사용하는 'COPY'를 선언
+query = """
+
+    COPY sye.address_infor FROM STDIN DELIMITER '|' ;
+
+"""
+
+# 파일읽기 모드로 열어서 copy_expert()에 넣음
+with open('C:/Users/tjsdpdms/Desktop/all4land/address_infor.txt', 'r') as f:
+    cur.copy_expert(query, f)
+
+conn.commit()
+
+conn.close()
