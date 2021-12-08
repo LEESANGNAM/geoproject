@@ -48,4 +48,5 @@ for i in range(0, rowsLen):
     columnList = []  # 다음 row의 값을 넣기 위해 비워준다. (매우 중요!!)
 
 result = pd.DataFrame(rowList, columns=nameList)
-print(result.tail())
+print(result)
+
