@@ -74,11 +74,11 @@ for i in range(0, len(resultDf3)):
     # 한개의 row만 ,로 되있어서 추가.  도로명 주소를 정해진 규칙에 맞춰 자른 후 오른쪽 공백을 제거한다.
 print(resultDf3)
 
-# # engine = create_engine("postgresql://user:password@localhost:5432/DBname")
-# engine = create_engine("postgresql://postgres:all4land@172.30.6.41:5432/geoproject")
-# resultDf3.to_sql(name='post_sejong',
-#                  con=engine,
-#                  schema='lsn',
-#                  if_exists='append',
-#                  index=False
-#                  )
+# engine = create_engine("postgresql://user:password@localhost:5432/DBname")
+engine = create_engine("postgresql://postgres:all4land@172.30.6.41:5432/geoproject")
+resultDf3.to_sql(name='post_sejong',
+                 con=engine,
+                 schema='lsn',
+                 if_exists='append',
+                 index=False
+                 )
