@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3c1b52-24b7-4f2a-8456-8140411de620" name="Changes" comment="api데이터추출">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_Insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml_Insert.py" afterDir="false" />
-    </list>
+    <list default="true" id="1b3c1b52-24b7-4f2a-8456-8140411de620" name="Changes" comment="api데이터삽입" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +144,7 @@
       <workItem from="1638257801445" duration="1328000" />
       <workItem from="1638331809900" duration="137000" />
       <workItem from="1638341233112" duration="2015000" />
+      <workItem from="1638935498345" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="api데이터추출">
       <created>1638258869895</created>
@@ -157,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638258869895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="api데이터삽입">
+      <created>1638935513700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638935513700</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +180,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="api데이터추출" />
-    <option name="LAST_COMMIT_MESSAGE" value="api데이터추출" />
+    <MESSAGE value="api데이터삽입" />
+    <option name="LAST_COMMIT_MESSAGE" value="api데이터삽입" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
